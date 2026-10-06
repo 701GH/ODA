@@ -1,0 +1,997 @@
+{"id":0,"image":"images/0000.jpg","mask":"masks/0000.jpg","question":"Please bring a bowl to the dining table."}
+{"id":1,"image":"images/0001.jpg","mask":"masks/0001.jpg","question":"Please hand me the bowl for mixing ingredients."}
+{"id":2,"image":"images/0002.jpg","mask":"masks/0002.jpg","question":"Could you please hand me a bowl?"}
+{"id":3,"image":"images/0003.jpg","mask":"masks/0003.jpg","question":"Could you please pass me a bowl?"}
+{"id":4,"image":"images/0004.jpg","mask":"masks/0004.jpg","question":"Hand me the bowl, please."}
+{"id":5,"image":"images/0005.jpg","mask":"masks/0005.jpg","question":"I need the bowl on the table."}
+{"id":6,"image":"images/0006.jpg","mask":"masks/0006.jpg","question":"Can you please grab a bowl?"}
+{"id":7,"image":"images/0007.jpg","mask":"masks/0007.jpg","question":"Please hand me the bowl."}
+{"id":8,"image":"images/0008.jpg","mask":"masks/0008.jpg","question":"Please find a bowl for me."}
+{"id":9,"image":"images/0009.jpg","mask":"masks/0009.jpg","question":"Can you bring the bowl to me, please?"}
+{"id":10,"image":"images/0010.jpg","mask":"masks/0010.jpg","question":"Can you hand me a bowl, please?"}
+{"id":11,"image":"images/0011.jpg","mask":"masks/0011.jpg","question":"Please get me a bowl."}
+{"id":12,"image":"images/0012.jpg","mask":"masks/0012.jpg","question":"Please find a bowl."}
+{"id":13,"image":"images/0013.jpg","mask":"masks/0013.jpg","question":"Please find a bowl."}
+{"id":14,"image":"images/0014.jpg","mask":"masks/0014.jpg","question":"I need a bowl."}
+{"id":15,"image":"images/0015.jpg","mask":"masks/0015.jpg","question":"Can you bring me a bowl to the table?"}
+{"id":16,"image":"images/0016.jpg","mask":"masks/0016.jpg","question":"Please hand me a bowl."}
+{"id":17,"image":"images/0017.jpg","mask":"masks/0017.jpg","question":"Please hand me the bowl."}
+{"id":18,"image":"images/0018.jpg","mask":"masks/0018.jpg","question":"Please find a bowl for me."}
+{"id":19,"image":"images/0019.jpg","mask":"masks/0019.jpg","question":"Can you pass me the bowl?"}
+{"id":20,"image":"images/0020.jpg","mask":"masks/0020.jpg","question":"I need a bowl for mixing ingredients."}
+{"id":21,"image":"images/0021.jpg","mask":"masks/0021.jpg","question":"Kindly provide a bowl."}
+{"id":22,"image":"images/0022.jpg","mask":"masks/0022.jpg","question":"Please hand me a bowl."}
+{"id":23,"image":"images/0023.jpg","mask":"masks/0023.jpg","question":"Please hand me the bowl."}
+{"id":24,"image":"images/0024.jpg","mask":"masks/0024.jpg","question":"Can you hand me the bowl, please?"}
+{"id":25,"image":"images/0025.jpg","mask":"masks/0025.jpg","question":"Please hand me the bowl."}
+{"id":26,"image":"images/0026.jpg","mask":"masks/0026.jpg","question":"Please hand me the bowl."}
+{"id":27,"image":"images/0027.jpg","mask":"masks/0027.jpg","question":"Get a bowl from the kitchen table."}
+{"id":28,"image":"images/0028.jpg","mask":"masks/0028.jpg","question":"I need a bowl to mix ingredients in."}
+{"id":29,"image":"images/0029.jpg","mask":"masks/0029.jpg","question":"Please locate a bowl."}
+{"id":30,"image":"images/0030.jpg","mask":"masks/0030.jpg","question":"Please find a bowl for me."}
+{"id":31,"image":"images/0031.jpg","mask":"masks/0031.jpg","question":"Can you pass me a bowl?"}
+{"id":32,"image":"images/0032.jpg","mask":"masks/0032.jpg","question":"Can you find a bowl for me?"}
+{"id":33,"image":"images/0033.jpg","mask":"masks/0033.jpg","question":"I need a bowl beside the stove."}
+{"id":34,"image":"images/0034.jpg","mask":"masks/0034.jpg","question":"Bring me a bowl, please."}
+{"id":35,"image":"images/0035.jpg","mask":"masks/0035.jpg","question":"Can you bring me a bowl, please?"}
+{"id":36,"image":"images/0036.jpg","mask":"masks/0036.jpg","question":"Can you bring me a bowl, please?"}
+{"id":37,"image":"images/0037.jpg","mask":"masks/0037.jpg","question":"Please hand me the bowl on the kitchen table."}
+{"id":38,"image":"images/0038.jpg","mask":"masks/0038.jpg","question":"Please hand me a bowl."}
+{"id":39,"image":"images/0039.jpg","mask":"masks/0039.jpg","question":"Please hand me a bowl."}
+{"id":40,"image":"images/0040.jpg","mask":"masks/0040.jpg","question":"Kindly provide a bowl."}
+{"id":41,"image":"images/0041.jpg","mask":"masks/0041.jpg","question":"I need the bowl in the microwave."}
+{"id":42,"image":"images/0042.jpg","mask":"masks/0042.jpg","question":"Please pass me the bowl."}
+{"id":43,"image":"images/0043.jpg","mask":"masks/0043.jpg","question":"Please, may I have a bowl?"}
+{"id":44,"image":"images/0044.jpg","mask":"masks/0044.jpg","question":"Please bring me a bowl."}
+{"id":45,"image":"images/0045.jpg","mask":"masks/0045.jpg","question":"Please hand me a mug."}
+{"id":46,"image":"images/0046.jpg","mask":"masks/0046.jpg","question":"Hand me the mug for drinking."}
+{"id":47,"image":"images/0047.jpg","mask":"masks/0047.jpg","question":"Please hand me a mug."}
+{"id":48,"image":"images/0048.jpg","mask":"masks/0048.jpg","question":"Please hand me a mug."}
+{"id":49,"image":"images/0049.jpg","mask":"masks/0049.jpg","question":"Could you grab a mug for me, please?"}
+{"id":50,"image":"images/0050.jpg","mask":"masks/0050.jpg","question":"Can you please bring me a mug?"}
+{"id":51,"image":"images/0051.jpg","mask":"masks/0051.jpg","question":"Can you fetch me a mug?"}
+{"id":52,"image":"images/0052.jpg","mask":"masks/0052.jpg","question":"Please hand me a mug."}
+{"id":53,"image":"images/0053.jpg","mask":"masks/0053.jpg","question":"Please hand me a mug."}
+{"id":54,"image":"images/0054.jpg","mask":"masks/0054.jpg","question":"Please bring me a mug to fill with coffee."}
+{"id":55,"image":"images/0055.jpg","mask":"masks/0055.jpg","question":"Please bring me a mug."}
+{"id":56,"image":"images/0056.jpg","mask":"masks/0056.jpg","question":"Grab the mug."}
+{"id":57,"image":"images/0057.jpg","mask":"masks/0057.jpg","question":"Please hand me a mug."}
+{"id":58,"image":"images/0058.jpg","mask":"masks/0058.jpg","question":"Can you bring me a mug?"}
+{"id":59,"image":"images/0059.jpg","mask":"masks/0059.jpg","question":"Please hand me the mug."}
+{"id":60,"image":"images/0060.jpg","mask":"masks/0060.jpg","question":"Could you hand me a mug to fill with coffee?"}
+{"id":61,"image":"images/0061.jpg","mask":"masks/0061.jpg","question":"Could you please get a mug for me?"}
+{"id":62,"image":"images/0062.jpg","mask":"masks/0062.jpg","question":"Can you pass me a mug?"}
+{"id":63,"image":"images/0063.jpg","mask":"masks/0063.jpg","question":"Can you bring a mug for me to use?"}
+{"id":64,"image":"images/0064.jpg","mask":"masks/0064.jpg","question":"Please hand me a mug."}
+{"id":65,"image":"images/0065.jpg","mask":"masks/0065.jpg","question":"Please hand me a mug."}
+{"id":66,"image":"images/0066.jpg","mask":"masks/0066.jpg","question":"Please bring me a mug."}
+{"id":67,"image":"images/0067.jpg","mask":"masks/0067.jpg","question":"Please find me a mug."}
+{"id":68,"image":"images/0068.jpg","mask":"masks/0068.jpg","question":"Can you bring me a mug?"}
+{"id":69,"image":"images/0069.jpg","mask":"masks/0069.jpg","question":"Could you please hand me a mug?"}
+{"id":70,"image":"images/0070.jpg","mask":"masks/0070.jpg","question":"I need a drink. Please bring me a mug."}
+{"id":71,"image":"images/0071.jpg","mask":"masks/0071.jpg","question":"Can you please hand me the mug?"}
+{"id":72,"image":"images/0072.jpg","mask":"masks/0072.jpg","question":"Can you get the mug for me?"}
+{"id":73,"image":"images/0073.jpg","mask":"masks/0073.jpg","question":"Please hand me a mug."}
+{"id":74,"image":"images/0074.jpg","mask":"masks/0074.jpg","question":"Can you get a mug for me to use?"}
+{"id":75,"image":"images/0075.jpg","mask":"masks/0075.jpg","question":"Please hand me the mug."}
+{"id":76,"image":"images/0076.jpg","mask":"masks/0076.jpg","question":"Please hand me the mug."}
+{"id":77,"image":"images/0077.jpg","mask":"masks/0077.jpg","question":"Can you get a mug for me to use?"}
+{"id":78,"image":"images/0078.jpg","mask":"masks/0078.jpg","question":"Please provide me with a mug."}
+{"id":79,"image":"images/0079.jpg","mask":"masks/0079.jpg","question":"Can you get a mug for me to use?"}
+{"id":80,"image":"images/0080.jpg","mask":"masks/0080.jpg","question":"Can you get me a mug, please?"}
+{"id":81,"image":"images/0081.jpg","mask":"masks/0081.jpg","question":"Please hand me a mug."}
+{"id":82,"image":"images/0082.jpg","mask":"masks/0082.jpg","question":"Please hand me the mug."}
+{"id":83,"image":"images/0083.jpg","mask":"masks/0083.jpg","question":"I need a drink. Please get a mug to fill with water."}
+{"id":84,"image":"images/0084.jpg","mask":"masks/0084.jpg","question":"Please bring me a mug."}
+{"id":85,"image":"images/0085.jpg","mask":"masks/0085.jpg","question":"Can you locate a potato for me?"}
+{"id":86,"image":"images/0086.jpg","mask":"masks/0086.jpg","question":"Can you retrieve a potato for me?"}
+{"id":87,"image":"images/0087.jpg","mask":"masks/0087.jpg","question":"Get me a potato."}
+{"id":88,"image":"images/0088.jpg","mask":"masks/0088.jpg","question":"Can you show me a potato?"}
+{"id":89,"image":"images/0089.jpg","mask":"masks/0089.jpg","question":"Can you bring me the potato?"}
+{"id":90,"image":"images/0090.jpg","mask":"masks/0090.jpg","question":"I am going to prepare a dish with potatoes. Please find me a potato."}
+{"id":91,"image":"images/0091.jpg","mask":"masks/0091.jpg","question":"I need a potato for cooking."}
+{"id":92,"image":"images/0092.jpg","mask":"masks/0092.jpg","question":"Can you locate a potato for me?"}
+{"id":93,"image":"images/0093.jpg","mask":"masks/0093.jpg","question":"Can you hand me a knife?"}
+{"id":94,"image":"images/0094.jpg","mask":"masks/0094.jpg","question":"Please fetch a knife."}
+{"id":95,"image":"images/0095.jpg","mask":"masks/0095.jpg","question":"Can you hand me the knife?"}
+{"id":96,"image":"images/0096.jpg","mask":"masks/0096.jpg","question":"Pass me the knife."}
+{"id":97,"image":"images/0097.jpg","mask":"masks/0097.jpg","question":"Can you bring a knife?"}
+{"id":98,"image":"images/0098.jpg","mask":"masks/0098.jpg","question":"I need a knife."}
+{"id":99,"image":"images/0099.jpg","mask":"masks/0099.jpg","question":"Please hand me the knife on the left."}
+{"id":100,"image":"images/0100.jpg","mask":"masks/0100.jpg","question":"Please hand me a knife."}
+{"id":101,"image":"images/0101.jpg","mask":"masks/0101.jpg","question":"Please bring me a knife for slicing."}
+{"id":102,"image":"images/0102.jpg","mask":"masks/0102.jpg","question":"Can you hand me the knife, please?"}
+{"id":103,"image":"images/0103.jpg","mask":"masks/0103.jpg","question":"I need a knife."}
+{"id":104,"image":"images/0104.jpg","mask":"masks/0104.jpg","question":"Hand me a knife, please."}
+{"id":105,"image":"images/0105.jpg","mask":"masks/0105.jpg","question":"Please bring the knife."}
+{"id":106,"image":"images/0106.jpg","mask":"masks/0106.jpg","question":"Please hand me a knife."}
+{"id":107,"image":"images/0107.jpg","mask":"masks/0107.jpg","question":"Please hand me the knife."}
+{"id":108,"image":"images/0108.jpg","mask":"masks/0108.jpg","question":"Can you hand me the knife, please?"}
+{"id":109,"image":"images/0109.jpg","mask":"masks/0109.jpg","question":"I need a knife for cutting."}
+{"id":110,"image":"images/0110.jpg","mask":"masks/0110.jpg","question":"We need a knife to cut vegetables."}
+{"id":111,"image":"images/0111.jpg","mask":"masks/0111.jpg","question":"Can you find a knife for me to use?"}
+{"id":112,"image":"images/0112.jpg","mask":"masks/0112.jpg","question":"We need a knife for cutting."}
+{"id":113,"image":"images/0113.jpg","mask":"masks/0113.jpg","question":"Can you please hand me the knife?"}
+{"id":114,"image":"images/0114.jpg","mask":"masks/0114.jpg","question":"Can you provide me with a knife?"}
+{"id":115,"image":"images/0115.jpg","mask":"masks/0115.jpg","question":"Can you bring a knife?"}
+{"id":116,"image":"images/0116.jpg","mask":"masks/0116.jpg","question":"Please hand me the knife."}
+{"id":117,"image":"images/0117.jpg","mask":"masks/0117.jpg","question":"I need to cut some vegetables. Please bring a knife."}
+{"id":118,"image":"images/0118.jpg","mask":"masks/0118.jpg","question":"I need to slice some vegetables. Please hand me the knife."}
+{"id":119,"image":"images/0119.jpg","mask":"masks/0119.jpg","question":"I need a knife."}
+{"id":120,"image":"images/0120.jpg","mask":"masks/0120.jpg","question":"Can you hand me a knife?"}
+{"id":121,"image":"images/0121.jpg","mask":"masks/0121.jpg","question":"Can you pass me the knife?"}
+{"id":122,"image":"images/0122.jpg","mask":"masks/0122.jpg","question":"Can you get a knife for me, please?"}
+{"id":123,"image":"images/0123.jpg","mask":"masks/0123.jpg","question":"Can you bring me a knife?"}
+{"id":124,"image":"images/0124.jpg","mask":"masks/0124.jpg","question":"Can you bring me a knife?"}
+{"id":125,"image":"images/0125.jpg","mask":"masks/0125.jpg","question":"I need a knife to cut vegetables."}
+{"id":126,"image":"images/0126.jpg","mask":"masks/0126.jpg","question":"Please hand me a knife."}
+{"id":127,"image":"images/0127.jpg","mask":"masks/0127.jpg","question":"I need a knife to cut vegetables."}
+{"id":128,"image":"images/0128.jpg","mask":"masks/0128.jpg","question":"Fetch a knife for cutting."}
+{"id":129,"image":"images/0129.jpg","mask":"masks/0129.jpg","question":"Can you fetch a knife for me?"}
+{"id":130,"image":"images/0130.jpg","mask":"masks/0130.jpg","question":"Can you pass me the knife?"}
+{"id":131,"image":"images/0131.jpg","mask":"masks/0131.jpg","question":"Can you bring the knife here, please?"}
+{"id":132,"image":"images/0132.jpg","mask":"masks/0132.jpg","question":"Please bring a knife."}
+{"id":133,"image":"images/0133.jpg","mask":"masks/0133.jpg","question":"Bring me the knife, please."}
+{"id":134,"image":"images/0134.jpg","mask":"masks/0134.jpg","question":"I need a knife."}
+{"id":135,"image":"images/0135.jpg","mask":"masks/0135.jpg","question":"Can you bring me a knife for cutting?"}
+{"id":136,"image":"images/0136.jpg","mask":"masks/0136.jpg","question":"Please bring the knife."}
+{"id":137,"image":"images/0137.jpg","mask":"masks/0137.jpg","question":"Can you pass me the knife?"}
+{"id":138,"image":"images/0138.jpg","mask":"masks/0138.jpg","question":"Could you pass me the knife, please?"}
+{"id":139,"image":"images/0139.jpg","mask":"masks/0139.jpg","question":"I need a knife."}
+{"id":140,"image":"images/0140.jpg","mask":"masks/0140.jpg","question":"Can you hand me a knife?"}
+{"id":141,"image":"images/0141.jpg","mask":"masks/0141.jpg","question":"Bring me a knife for cutting."}
+{"id":142,"image":"images/0142.jpg","mask":"masks/0142.jpg","question":"Please hand me a knife."}
+{"id":143,"image":"images/0143.jpg","mask":"masks/0143.jpg","question":"I require a knife to cut some vegetables."}
+{"id":144,"image":"images/0144.jpg","mask":"masks/0144.jpg","question":"Pass me the knife, please."}
+{"id":145,"image":"images/0145.jpg","mask":"masks/0145.jpg","question":"I need a knife for cutting."}
+{"id":146,"image":"images/0146.jpg","mask":"masks/0146.jpg","question":"I need a knife."}
+{"id":147,"image":"images/0147.jpg","mask":"masks/0147.jpg","question":"I need a knife."}
+{"id":148,"image":"images/0148.jpg","mask":"masks/0148.jpg","question":"Please hand me a knife."}
+{"id":149,"image":"images/0149.jpg","mask":"masks/0149.jpg","question":"Can you hand me the knife?"}
+{"id":150,"image":"images/0150.jpg","mask":"masks/0150.jpg","question":"Can you retrieve the knife?"}
+{"id":151,"image":"images/0151.jpg","mask":"masks/0151.jpg","question":"Can you bring a knife for me?"}
+{"id":152,"image":"images/0152.jpg","mask":"masks/0152.jpg","question":"I need a knife."}
+{"id":153,"image":"images/0153.jpg","mask":"masks/0153.jpg","question":"Please pick up the knife."}
+{"id":154,"image":"images/0154.jpg","mask":"masks/0154.jpg","question":"Please hand me a knife."}
+{"id":155,"image":"images/0155.jpg","mask":"masks/0155.jpg","question":"Please hand me a knife."}
+{"id":156,"image":"images/0156.jpg","mask":"masks/0156.jpg","question":"We need a knife for cutting."}
+{"id":157,"image":"images/0157.jpg","mask":"masks/0157.jpg","question":"Please pass a knife for me."}
+{"id":158,"image":"images/0158.jpg","mask":"masks/0158.jpg","question":"Can you hand me the knife, please?"}
+{"id":159,"image":"images/0159.jpg","mask":"masks/0159.jpg","question":"Can you pass me a knife?"}
+{"id":160,"image":"images/0160.jpg","mask":"masks/0160.jpg","question":"Please pass a knife."}
+{"id":161,"image":"images/0161.jpg","mask":"masks/0161.jpg","question":"Can you grab a knife for me?"}
+{"id":162,"image":"images/0162.jpg","mask":"masks/0162.jpg","question":"Can you pass me a knife?"}
+{"id":163,"image":"images/0163.jpg","mask":"masks/0163.jpg","question":"Pass me the knife."}
+{"id":164,"image":"images/0164.jpg","mask":"masks/0164.jpg","question":"Please pass a knife."}
+{"id":165,"image":"images/0165.jpg","mask":"masks/0165.jpg","question":"Could you get me a knife?"}
+{"id":166,"image":"images/0166.jpg","mask":"masks/0166.jpg","question":"Can you hand me a knife?"}
+{"id":167,"image":"images/0167.jpg","mask":"masks/0167.jpg","question":"I need a knife to cut the vegetables."}
+{"id":168,"image":"images/0168.jpg","mask":"masks/0168.jpg","question":"I need a knife to cut the vegetables."}
+{"id":169,"image":"images/0169.jpg","mask":"masks/0169.jpg","question":"We need a knife for cutting."}
+{"id":170,"image":"images/0170.jpg","mask":"masks/0170.jpg","question":"Please hand me a knife."}
+{"id":171,"image":"images/0171.jpg","mask":"masks/0171.jpg","question":"Can you please grab a knife for me?"}
+{"id":172,"image":"images/0172.jpg","mask":"masks/0172.jpg","question":"Can you please get me a knife?"}
+{"id":173,"image":"images/0173.jpg","mask":"masks/0173.jpg","question":"Can you get an onion for me, please?"}
+{"id":174,"image":"images/0174.jpg","mask":"masks/0174.jpg","question":"Please bring an onion."}
+{"id":175,"image":"images/0175.jpg","mask":"masks/0175.jpg","question":"I need an onion for cooking."}
+{"id":176,"image":"images/0176.jpg","mask":"masks/0176.jpg","question":"Can you bring an onion from the kitchen, please?"}
+{"id":177,"image":"images/0177.jpg","mask":"masks/0177.jpg","question":"Can you bring me an onion, please?"}
+{"id":178,"image":"images/0178.jpg","mask":"masks/0178.jpg","question":"Can you hand me an onion, please?"}
+{"id":179,"image":"images/0179.jpg","mask":"masks/0179.jpg","question":"I need an onion for the recipe."}
+{"id":180,"image":"images/0180.jpg","mask":"masks/0180.jpg","question":"Can you help me find an onion?"}
+{"id":181,"image":"images/0181.jpg","mask":"masks/0181.jpg","question":"Can you grab an onion for me?"}
+{"id":183,"image":"images/0183.jpg","mask":"masks/0183.jpg","question":"Can you get an onion for me?"}
+{"id":184,"image":"images/0184.jpg","mask":"masks/0184.jpg","question":"Can you please bring me an onion?"}
+{"id":185,"image":"images/0185.jpg","mask":"masks/0185.jpg","question":"Can you fetch an onion for me, please?"}
+{"id":186,"image":"images/0186.jpg","mask":"masks/0186.jpg","question":"Can you bring me an onion?"}
+{"id":187,"image":"images/0187.jpg","mask":"masks/0187.jpg","question":"Please bring me an onion."}
+{"id":188,"image":"images/0188.jpg","mask":"masks/0188.jpg","question":"Can you locate an onion for me?"}
+{"id":189,"image":"images/0189.jpg","mask":"masks/0189.jpg","question":"Can you hand me the onion, please?"}
+{"id":190,"image":"images/0190.jpg","mask":"masks/0190.jpg","question":"Get me an onion."}
+{"id":191,"image":"images/0191.jpg","mask":"masks/0191.jpg","question":"Can you locate an onion for me, please?"}
+{"id":192,"image":"images/0192.jpg","mask":"masks/0192.jpg","question":"Can you find an onion, please?"}
+{"id":193,"image":"images/0193.jpg","mask":"masks/0193.jpg","question":"Can you find an onion for the recipe?"}
+{"id":194,"image":"images/0194.jpg","mask":"masks/0194.jpg","question":"Please bring me an onion from the kitchen."}
+{"id":195,"image":"images/0195.jpg","mask":"masks/0195.jpg","question":"Please hand me a computer mouse."}
+{"id":196,"image":"images/0196.jpg","mask":"masks/0196.jpg","question":"Please show me the computer mouse."}
+{"id":197,"image":"images/0197.jpg","mask":"masks/0197.jpg","question":"Please bring me a computer mouse."}
+{"id":198,"image":"images/0198.jpg","mask":"masks/0198.jpg","question":"Can you please hand me the computer mouse?"}
+{"id":199,"image":"images/0199.jpg","mask":"masks/0199.jpg","question":"Locate the computer mouse for me."}
+{"id":200,"image":"images/0200.jpg","mask":"masks/0200.jpg","question":"Can you hand me the computer mouse?"}
+{"id":201,"image":"images/0201.jpg","mask":"masks/0201.jpg","question":"Can you bring me a computer mouse, please?"}
+{"id":202,"image":"images/0202.jpg","mask":"masks/0202.jpg","question":"Can you show me the oven door handle?"}
+{"id":203,"image":"images/0203.jpg","mask":"masks/0203.jpg","question":"Open the oven for me."}
+{"id":204,"image":"images/0204.jpg","mask":"masks/0204.jpg","question":"Open the oven for me."}
+{"id":205,"image":"images/0205.jpg","mask":"masks/0205.jpg","question":"Open the door of the oven."}
+{"id":206,"image":"images/0206.jpg","mask":"masks/0206.jpg","question":"I'm preparing to bake some cookies. Can you open the door of the oven?"}
+{"id":207,"image":"images/0207.jpg","mask":"masks/0207.jpg","question":"Open the oven for me."}
+{"id":208,"image":"images/0208.jpg","mask":"masks/0208.jpg","question":"Open the oven for me, please."}
+{"id":209,"image":"images/0209.jpg","mask":"masks/0209.jpg","question":"Open the oven for me."}
+{"id":210,"image":"images/0210.jpg","mask":"masks/0210.jpg","question":"Can you close the oven door?"}
+{"id":211,"image":"images/0211.jpg","mask":"masks/0211.jpg","question":"I would like to bake something. Can you open the oven for me?"}
+{"id":212,"image":"images/0212.jpg","mask":"masks/0212.jpg","question":"Open the oven for me."}
+{"id":213,"image":"images/0213.jpg","mask":"masks/0213.jpg","question":"Open the oven for me."}
+{"id":214,"image":"images/0214.jpg","mask":"masks/0214.jpg","question":"Open the oven for me, please."}
+{"id":215,"image":"images/0215.jpg","mask":"masks/0215.jpg","question":"Can you open the oven for me?"}
+{"id":216,"image":"images/0216.jpg","mask":"masks/0216.jpg","question":"I need a plate for the food."}
+{"id":217,"image":"images/0217.jpg","mask":"masks/0217.jpg","question":"Please bring me a plate."}
+{"id":218,"image":"images/0218.jpg","mask":"masks/0218.jpg","question":"Can you please bring me a plate?"}
+{"id":219,"image":"images/0219.jpg","mask":"masks/0219.jpg","question":"I need a plate."}
+{"id":220,"image":"images/0220.jpg","mask":"masks/0220.jpg","question":"Please hand me a plate for the food."}
+{"id":221,"image":"images/0221.jpg","mask":"masks/0221.jpg","question":"Please hand me a plate."}
+{"id":222,"image":"images/0222.jpg","mask":"masks/0222.jpg","question":"Can you bring me a plate?"}
+{"id":223,"image":"images/0223.jpg","mask":"masks/0223.jpg","question":"Can you bring me a plate, please?"}
+{"id":224,"image":"images/0224.jpg","mask":"masks/0224.jpg","question":"Please bring a plate for the food."}
+{"id":225,"image":"images/0225.jpg","mask":"masks/0225.jpg","question":"Please hand me a plate."}
+{"id":226,"image":"images/0226.jpg","mask":"masks/0226.jpg","question":"Where is the plate?"}
+{"id":227,"image":"images/0227.jpg","mask":"masks/0227.jpg","question":"Can you pass me a plate, please?"}
+{"id":228,"image":"images/0228.jpg","mask":"masks/0228.jpg","question":"Can you place the plate on the table, please?"}
+{"id":229,"image":"images/0229.jpg","mask":"masks/0229.jpg","question":"Can you provide a plate for the meal?"}
+{"id":230,"image":"images/0230.jpg","mask":"masks/0230.jpg","question":"Please bring me the plate on the left."}
+{"id":231,"image":"images/0231.jpg","mask":"masks/0231.jpg","question":"I need a plate."}
+{"id":232,"image":"images/0232.jpg","mask":"masks/0232.jpg","question":"Pick up the plate on the right."}
+{"id":233,"image":"images/0233.jpg","mask":"masks/0233.jpg","question":"Can you hand me a plate, please?"}
+{"id":234,"image":"images/0234.jpg","mask":"masks/0234.jpg","question":"Could you please grab a plate?"}
+{"id":235,"image":"images/0235.jpg","mask":"masks/0235.jpg","question":"Can you find a plate for me to use?"}
+{"id":236,"image":"images/0236.jpg","mask":"masks/0236.jpg","question":"Can you please bring a plate to the table?"}
+{"id":237,"image":"images/0237.jpg","mask":"masks/0237.jpg","question":"Please hand me a plate."}
+{"id":238,"image":"images/0238.jpg","mask":"masks/0238.jpg","question":"Can you find a plate for me?"}
+{"id":239,"image":"images/0239.jpg","mask":"masks/0239.jpg","question":"Grab a plate for the food."}
+{"id":240,"image":"images/0240.jpg","mask":"masks/0240.jpg","question":"Can you find a plate for me, please?"}
+{"id":241,"image":"images/0241.jpg","mask":"masks/0241.jpg","question":"Can you hand me a plate, please?"}
+{"id":242,"image":"images/0242.jpg","mask":"masks/0242.jpg","question":"Kindly place the plate on the table."}
+{"id":243,"image":"images/0243.jpg","mask":"masks/0243.jpg","question":"Can you find a plate for serving food?"}
+{"id":244,"image":"images/0244.jpg","mask":"masks/0244.jpg","question":"Can you pass me a plate for dinner?"}
+{"id":245,"image":"images/0245.jpg","mask":"masks/0245.jpg","question":"Can you hand me a plate, please?"}
+{"id":246,"image":"images/0246.jpg","mask":"masks/0246.jpg","question":"I need a plate for serving food."}
+{"id":247,"image":"images/0247.jpg","mask":"masks/0247.jpg","question":"I would like to have a plate to serve food."}
+{"id":248,"image":"images/0248.jpg","mask":"masks/0248.jpg","question":"I need a plate for the food."}
+{"id":249,"image":"images/0249.jpg","mask":"masks/0249.jpg","question":"Can you bring a plate for me?"}
+{"id":250,"image":"images/0250.jpg","mask":"masks/0250.jpg","question":"Can you bring a plate for me?"}
+{"id":251,"image":"images/0251.jpg","mask":"masks/0251.jpg","question":"Can you please bring a plate?"}
+{"id":252,"image":"images/0252.jpg","mask":"masks/0252.jpg","question":"Please hand me a plate."}
+{"id":253,"image":"images/0253.png","mask":"masks/0253.png","question":"Can you hand me a plate, please?"}
+{"id":254,"image":"images/0254.jpg","mask":"masks/0254.jpg","question":"I need a plate."}
+{"id":255,"image":"images/0255.jpg","mask":"masks/0255.jpg","question":"Can you bring a plate to the table?"}
+{"id":256,"image":"images/0256.jpg","mask":"masks/0256.jpg","question":"Can you find a plate for me?"}
+{"id":257,"image":"images/0257.jpg","mask":"masks/0257.jpg","question":"Can you bring a plate for me, please?"}
+{"id":258,"image":"images/0258.jpg","mask":"masks/0258.jpg","question":"Can you hand me a plate, please?"}
+{"id":259,"image":"images/0259.jpg","mask":"masks/0259.jpg","question":"Can you find a plate for me?"}
+{"id":260,"image":"images/0260.jpg","mask":"masks/0260.jpg","question":"Can you grab a plate for me?"}
+{"id":261,"image":"images/0261.jpg","mask":"masks/0261.jpg","question":"Can you find a plate for me?"}
+{"id":262,"image":"images/0262.jpg","mask":"masks/0262.jpg","question":"Could you hand me a plate, please?"}
+{"id":263,"image":"images/0263.jpg","mask":"masks/0263.jpg","question":"Please set the table with a plate."}
+{"id":264,"image":"images/0264.jpg","mask":"masks/0264.jpg","question":"I need a plate for the food."}
+{"id":265,"image":"images/0265.jpg","mask":"masks/0265.jpg","question":"Can you bring me a plate?"}
+{"id":266,"image":"images/0266.jpg","mask":"masks/0266.jpg","question":"I need a plate to serve food."}
+{"id":267,"image":"images/0267.jpg","mask":"masks/0267.jpg","question":"Please hand me a plate."}
+{"id":268,"image":"images/0268.jpg","mask":"masks/0268.jpg","question":"Can you bring me a plate?"}
+{"id":269,"image":"images/0269.jpg","mask":"masks/0269.jpg","question":"Can you grab a plate for me?"}
+{"id":270,"image":"images/0270.jpg","mask":"masks/0270.jpg","question":"Please bring a plate."}
+{"id":271,"image":"images/0271.jpg","mask":"masks/0271.jpg","question":"Can you pass me a plate?"}
+{"id":272,"image":"images/0272.jpg","mask":"masks/0272.jpg","question":"Fetch a plate for me."}
+{"id":273,"image":"images/0273.jpg","mask":"masks/0273.jpg","question":"Fetch a plate for me."}
+{"id":274,"image":"images/0274.jpg","mask":"masks/0274.jpg","question":"Can you hand me a plate, please?"}
+{"id":275,"image":"images/0275.jpg","mask":"masks/0275.jpg","question":"Can you bring a plate?"}
+{"id":276,"image":"images/0276.jpg","mask":"masks/0276.jpg","question":"Can you bring me a plate?"}
+{"id":277,"image":"images/0277.jpg","mask":"masks/0277.jpg","question":"Can you bring a plate?"}
+{"id":278,"image":"images/0278.jpg","mask":"masks/0278.jpg","question":"Please hand me the black plate."}
+{"id":279,"image":"images/0279.jpg","mask":"masks/0279.jpg","question":"We need a plate."}
+{"id":280,"image":"images/0280.jpg","mask":"masks/0280.jpg","question":"Pass me a plate, please."}
+{"id":281,"image":"images/0281.jpg","mask":"masks/0281.jpg","question":"Can you bring me a plate, please?"}
+{"id":282,"image":"images/0282.jpg","mask":"masks/0282.jpg","question":"I need a pillow to rest my head."}
+{"id":283,"image":"images/0283.png","mask":"masks/0283.png","question":"I need a pillow to nap."}
+{"id":284,"image":"images/0284.png","mask":"masks/0284.png","question":"Can you find a pillow for me?"}
+{"id":285,"image":"images/0285.png","mask":"masks/0285.png","question":"Can you bring me a pillow to the living room?"}
+{"id":286,"image":"images/0286.png","mask":"masks/0286.png","question":"Please bring me a pillow."}
+{"id":287,"image":"images/0287.png","mask":"masks/0287.png","question":"I need a pillow for the couch."}
+{"id":288,"image":"images/0288.png","mask":"masks/0288.png","question":"I need a soft pillow."}
+{"id":289,"image":"images/0289.png","mask":"masks/0289.png","question":"Can you bring me a pillow, please?"}
+{"id":290,"image":"images/0290.png","mask":"masks/0290.png","question":"Can you find a pillow for me?"}
+{"id":291,"image":"images/0291.png","mask":"masks/0291.png","question":"Bring me a pillow, please."}
+{"id":292,"image":"images/0292.png","mask":"masks/0292.png","question":"Can you bring a pillow here?"}
+{"id":293,"image":"images/0293.png","mask":"masks/0293.png","question":"Can you find a pillow for me?"}
+{"id":294,"image":"images/0294.png","mask":"masks/0294.png","question":"Can you find a pillow for me?"}
+{"id":295,"image":"images/0295.png","mask":"masks/0295.png","question":"Can you provide a pillow for the sofa?"}
+{"id":296,"image":"images/0296.png","mask":"masks/0296.png","question":"Bring me a pillow."}
+{"id":297,"image":"images/0297.png","mask":"masks/0297.png","question":"Please bring me a pillow."}
+{"id":298,"image":"images/0298.png","mask":"masks/0298.png","question":"Could you please get a pillow for me?"}
+{"id":299,"image":"images/0299.png","mask":"masks/0299.png","question":"Fetch me a pillow, please."}
+{"id":300,"image":"images/0300.png","mask":"masks/0300.png","question":"Can you get me a pillow, please?"}
+{"id":301,"image":"images/0301.png","mask":"masks/0301.png","question":"Can you bring me a pillow?"}
+{"id":302,"image":"images/0302.png","mask":"masks/0302.png","question":"Can you bring me a pillow?"}
+{"id":303,"image":"images/0303.png","mask":"masks/0303.png","question":"Can you bring me a pillow, please?"}
+{"id":304,"image":"images/0304.png","mask":"masks/0304.png","question":"Can you please bring a pillow?"}
+{"id":305,"image":"images/0305.png","mask":"masks/0305.png","question":"Bring me a pillow."}
+{"id":306,"image":"images/0306.png","mask":"masks/0306.png","question":"Can you hand me a pillow?"}
+{"id":307,"image":"images/0307.png","mask":"masks/0307.png","question":"I need a pillow for comfort."}
+{"id":308,"image":"images/0308.png","mask":"masks/0308.png","question":"Can you bring me a pillow?"}
+{"id":309,"image":"images/0309.png","mask":"masks/0309.png","question":"Can you hand me a pillow?"}
+{"id":310,"image":"images/0310.png","mask":"masks/0310.png","question":"Can you bring me a pillow?"}
+{"id":311,"image":"images/0311.png","mask":"masks/0311.png","question":"Could you grab a pillow for me?"}
+{"id":312,"image":"images/0312.png","mask":"masks/0312.png","question":"Could you pass me a pillow?"}
+{"id":313,"image":"images/0313.jpg","mask":"masks/0313.jpg","question":"Can you please pass me a spatula?"}
+{"id":314,"image":"images/0314.jpg","mask":"masks/0314.jpg","question":"Can you pass me the spatula, please?"}
+{"id":315,"image":"images/0315.jpg","mask":"masks/0315.jpg","question":"Can you hand me the spatula?"}
+{"id":316,"image":"images/0316.jpg","mask":"masks/0316.jpg","question":"Can you pass me the spatula, please?"}
+{"id":317,"image":"images/0317.jpg","mask":"masks/0317.jpg","question":"Can you hand me the spatula?"}
+{"id":318,"image":"images/0318.jpg","mask":"masks/0318.jpg","question":"Please bring a spatula."}
+{"id":319,"image":"images/0319.jpg","mask":"masks/0319.jpg","question":"Can you pass me the spatula for cooking?"}
+{"id":320,"image":"images/0320.jpg","mask":"masks/0320.jpg","question":"Hand me the spatula."}
+{"id":321,"image":"images/0321.jpg","mask":"masks/0321.jpg","question":"We need a spatula to flip the pancakes."}
+{"id":322,"image":"images/0322.jpg","mask":"masks/0322.jpg","question":"Please bring me a spatula."}
+{"id":323,"image":"images/0323.jpg","mask":"masks/0323.jpg","question":"Can you hand me the spatula?"}
+{"id":324,"image":"images/0324.jpg","mask":"masks/0324.jpg","question":"Could you hand me the spatula?"}
+{"id":325,"image":"images/0325.jpg","mask":"masks/0325.jpg","question":"Please hand me the spatula for cooking."}
+{"id":326,"image":"images/0326.jpg","mask":"masks/0326.jpg","question":"I need a spatula."}
+{"id":327,"image":"images/0327.jpg","mask":"masks/0327.jpg","question":"Could you bring the spatula here, please?"}
+{"id":328,"image":"images/0328.jpg","mask":"masks/0328.jpg","question":"Can you hand me the spatula?"}
+{"id":329,"image":"images/0329.jpg","mask":"masks/0329.jpg","question":"Can you hand me the spatula, please?"}
+{"id":330,"image":"images/0330.jpg","mask":"masks/0330.jpg","question":"Can you pass me a spatula?"}
+{"id":331,"image":"images/0331.jpg","mask":"masks/0331.jpg","question":"Can you hand me a spatula, please?"}
+{"id":332,"image":"images/0332.jpg","mask":"masks/0332.jpg","question":"Pass me a spatula."}
+{"id":333,"image":"images/0333.jpg","mask":"masks/0333.jpg","question":"Can you hand me a spatula?"}
+{"id":334,"image":"images/0334.jpg","mask":"masks/0334.jpg","question":"I need a spatula for cooking. Could you please give me one?"}
+{"id":335,"image":"images/0335.jpg","mask":"masks/0335.jpg","question":"I need a writing tool. Can you find a pen?"}
+{"id":336,"image":"images/0336.jpg","mask":"masks/0336.jpg","question":"Can you find a pen?"}
+{"id":337,"image":"images/0337.jpg","mask":"masks/0337.jpg","question":"Could you hand me a pen, please?"}
+{"id":338,"image":"images/0338.jpg","mask":"masks/0338.jpg","question":"Can you please find a pen for me?"}
+{"id":339,"image":"images/0339.jpg","mask":"masks/0339.jpg","question":"Please hand me a pen."}
+{"id":340,"image":"images/0340.jpg","mask":"masks/0340.jpg","question":"Can you hand me a pen?"}
+{"id":341,"image":"images/0341.jpg","mask":"masks/0341.jpg","question":"Hand me a pen."}
+{"id":342,"image":"images/0342.jpg","mask":"masks/0342.jpg","question":"Could you please hand me a pen?"}
+{"id":343,"image":"images/0343.jpg","mask":"masks/0343.jpg","question":"Can you find a pen for me?"}
+{"id":344,"image":"images/0344.jpg","mask":"masks/0344.jpg","question":"I need a pen to write with."}
+{"id":345,"image":"images/0345.jpg","mask":"masks/0345.jpg","question":"I require a pen to write."}
+{"id":346,"image":"images/0346.jpg","mask":"masks/0346.jpg","question":"Can you locate a pen for me?"}
+{"id":347,"image":"images/0347.jpg","mask":"masks/0347.jpg","question":"Please get me a pen."}
+{"id":348,"image":"images/0348.jpg","mask":"masks/0348.jpg","question":"Can you find a pen for me?"}
+{"id":349,"image":"images/0349.jpg","mask":"masks/0349.jpg","question":"Set the table with a fork."}
+{"id":350,"image":"images/0350.jpg","mask":"masks/0350.jpg","question":"Pass me a fork."}
+{"id":351,"image":"images/0351.jpg","mask":"masks/0351.jpg","question":"Can you set the table with a fork, please?"}
+{"id":352,"image":"images/0352.jpg","mask":"masks/0352.jpg","question":"I need a fork to eat. Can you get one for me?"}
+{"id":353,"image":"images/0353.jpg","mask":"masks/0353.jpg","question":"Can you pass me a fork?"}
+{"id":354,"image":"images/0354.jpg","mask":"masks/0354.jpg","question":"Please hand me a fork."}
+{"id":355,"image":"images/0355.jpg","mask":"masks/0355.jpg","question":"Please hand me a fork."}
+{"id":356,"image":"images/0356.jpg","mask":"masks/0356.jpg","question":"Please hand me a fork to use."}
+{"id":357,"image":"images/0357.jpg","mask":"masks/0357.jpg","question":"I need a fork for my salad."}
+{"id":358,"image":"images/0358.jpg","mask":"masks/0358.jpg","question":"Can you get a fork for me?"}
+{"id":359,"image":"images/0359.jpg","mask":"masks/0359.jpg","question":"Can you set the table with a fork?"}
+{"id":360,"image":"images/0360.jpg","mask":"masks/0360.jpg","question":"Please bring me a fork."}
+{"id":361,"image":"images/0361.jpg","mask":"masks/0361.jpg","question":"Please hand me a fork."}
+{"id":362,"image":"images/0362.jpg","mask":"masks/0362.jpg","question":"Please get a fork."}
+{"id":363,"image":"images/0363.jpg","mask":"masks/0363.jpg","question":"Can you bring me a fork?"}
+{"id":364,"image":"images/0364.jpg","mask":"masks/0364.jpg","question":"Please set the table with a fork."}
+{"id":365,"image":"images/0365.jpg","mask":"masks/0365.jpg","question":"Grab a fork for me, please."}
+{"id":366,"image":"images/0366.jpg","mask":"masks/0366.jpg","question":"I need a fork for the salad."}
+{"id":367,"image":"images/0367.jpg","mask":"masks/0367.jpg","question":"I need a fork for the dinner table."}
+{"id":368,"image":"images/0368.jpg","mask":"masks/0368.jpg","question":"Please hand me a fork."}
+{"id":369,"image":"images/0369.jpg","mask":"masks/0369.jpg","question":"Please pass me a fork for eating."}
+{"id":370,"image":"images/0370.jpg","mask":"masks/0370.jpg","question":"Please bring a fork for the table setting."}
+{"id":371,"image":"images/0371.jpg","mask":"masks/0371.jpg","question":"Can you bring a fork for me?"}
+{"id":372,"image":"images/0372.jpg","mask":"masks/0372.jpg","question":"Can you place the fork on the table?"}
+{"id":373,"image":"images/0373.png","mask":"masks/0373.png","question":"Please bring the picture frame to me."}
+{"id":374,"image":"images/0374.png","mask":"masks/0374.png","question":"Could you tell me where the picture frame is?"}
+{"id":375,"image":"images/0375.png","mask":"masks/0375.png","question":"Please grab the picture frame."}
+{"id":376,"image":"images/0376.png","mask":"masks/0376.png","question":"Could you locate the picture frame for me?"}
+{"id":377,"image":"images/0377.png","mask":"masks/0377.png","question":"Show me a picture frame."}
+{"id":378,"image":"images/0378.png","mask":"masks/0378.png","question":"I need a picture frame."}
+{"id":379,"image":"images/0379.png","mask":"masks/0379.png","question":"Locate the picture frame on the wall."}
+{"id":381,"image":"images/0381.png","mask":"masks/0381.png","question":"Do you see the picture frame?"}
+{"id":382,"image":"images/0382.png","mask":"masks/0382.png","question":"Point me to the picture frame."}
+{"id":383,"image":"images/0383.png","mask":"masks/0383.png","question":"Locate the picture frame on the wall."}
+{"id":384,"image":"images/0384.png","mask":"masks/0384.png","question":"Please hand me the picture frame."}
+{"id":385,"image":"images/0385.png","mask":"masks/0385.png","question":"Can you hang the picture frame on the wall?"}
+{"id":386,"image":"images/0386.png","mask":"masks/0386.png","question":"Could you indicate the location of the picture frame for me?"}
+{"id":387,"image":"images/0387.png","mask":"masks/0387.png","question":"Can you pick up the picture frame for me?"}
+{"id":388,"image":"images/0388.png","mask":"masks/0388.png","question":"Where is the picture frame?"}
+{"id":389,"image":"images/0389.png","mask":"masks/0389.png","question":"Locate a picture frame for me, please."}
+{"id":390,"image":"images/0390.png","mask":"masks/0390.png","question":"Locate a picture frame in the room."}
+{"id":391,"image":"images/0391.jpg","mask":"masks/0391.jpg","question":"Can you bring me a screwdriver?"}
+{"id":392,"image":"images/0392.jpg","mask":"masks/0392.jpg","question":"I need a screwdriver."}
+{"id":393,"image":"images/0393.jpg","mask":"masks/0393.jpg","question":"Locate the screwdriver, please."}
+{"id":394,"image":"images/0394.jpg","mask":"masks/0394.jpg","question":"Can you get the screwdriver for me, please?"}
+{"id":395,"image":"images/0395.jpg","mask":"masks/0395.jpg","question":"Can you fetch the screwdriver?"}
+{"id":396,"image":"images/0396.jpg","mask":"masks/0396.jpg","question":"Can you provide me with a screwdriver?"}
+{"id":397,"image":"images/0397.jpg","mask":"masks/0397.jpg","question":"Can you pass me the screwdriver?"}
+{"id":398,"image":"images/0398.jpg","mask":"masks/0398.jpg","question":"Bring me a screwdriver, please."}
+{"id":399,"image":"images/0399.jpg","mask":"masks/0399.jpg","question":"Can you pass me the screwdriver over there?"}
+{"id":400,"image":"images/0400.jpg","mask":"masks/0400.jpg","question":"I need to fix something. Please bring me a screwdriver."}
+{"id":401,"image":"images/0401.jpg","mask":"masks/0401.jpg","question":"Can you hand me a screwdriver, please?"}
+{"id":402,"image":"images/0402.jpg","mask":"masks/0402.jpg","question":"I need to tighten the screws. Pass me the screwdriver."}
+{"id":403,"image":"images/0403.jpg","mask":"masks/0403.jpg","question":"Can you hand me a screwdriver?"}
+{"id":404,"image":"images/0404.jpg","mask":"masks/0404.jpg","question":"Can you pass me the wok?"}
+{"id":405,"image":"images/0405.jpg","mask":"masks/0405.jpg","question":"I'd like to stir-fry. Could you bring me a wok?"}
+{"id":406,"image":"images/0406.jpg","mask":"masks/0406.jpg","question":"Can you bring a wok for stir-frying?"}
+{"id":407,"image":"images/0407.jpg","mask":"masks/0407.jpg","question":"Could you bring me a wok?"}
+{"id":408,"image":"images/0408.jpg","mask":"masks/0408.jpg","question":"Please bring the wok."}
+{"id":409,"image":"images/0409.jpg","mask":"masks/0409.jpg","question":"I need to use a wok for cooking."}
+{"id":410,"image":"images/0410.jpg","mask":"masks/0410.jpg","question":"Can you give me a wok for stir-frying?"}
+{"id":411,"image":"images/0411.jpg","mask":"masks/0411.jpg","question":"Please bring the wok for cooking."}
+{"id":412,"image":"images/0412.jpg","mask":"masks/0412.jpg","question":"Please hand me a wok to cook in."}
+{"id":413,"image":"images/0413.jpg","mask":"masks/0413.jpg","question":"I need to cook stir-fry. Could you pass me a wok?"}
+{"id":414,"image":"images/0414.jpg","mask":"masks/0414.jpg","question":"Please hand me the wok."}
+{"id":415,"image":"images/0415.jpg","mask":"masks/0415.jpg","question":"Please pass me a wok for cooking."}
+{"id":416,"image":"images/0416.jpg","mask":"masks/0416.jpg","question":"Can you hand me a wok?"}
+{"id":417,"image":"images/0417.jpg","mask":"masks/0417.jpg","question":"Could you bring me a wok?"}
+{"id":418,"image":"images/0418.jpg","mask":"masks/0418.jpg","question":"Bring me the wok for cooking."}
+{"id":419,"image":"images/0419.jpg","mask":"masks/0419.jpg","question":"Pass me the wok."}
+{"id":420,"image":"images/0420.jpg","mask":"masks/0420.jpg","question":"Can you get the wok for me?"}
+{"id":421,"image":"images/0421.jpg","mask":"masks/0421.jpg","question":"I need a wok for cooking. Can you pass one for me, please?"}
+{"id":422,"image":"images/0422.jpg","mask":"masks/0422.jpg","question":"I need a wok for cooking."}
+{"id":423,"image":"images/0423.jpg","mask":"masks/0423.jpg","question":"I need to cook. Can you bring me a wok?"}
+{"id":424,"image":"images/0424.jpg","mask":"masks/0424.jpg","question":"Can you pass me the wok?"}
+{"id":425,"image":"images/0425.jpg","mask":"masks/0425.jpg","question":"We need a wok for cooking."}
+{"id":426,"image":"images/0426.jpg","mask":"masks/0426.jpg","question":"Bring me a wok so I can cook."}
+{"id":427,"image":"images/0427.jpg","mask":"masks/0427.jpg","question":"I need to cook with a big wok. Can you bring one, please?"}
+{"id":428,"image":"images/0428.jpg","mask":"masks/0428.jpg","question":"Can you hand me the wok, please?"}
+{"id":429,"image":"images/0429.jpg","mask":"masks/0429.jpg","question":"Please bring the wok."}
+{"id":430,"image":"images/0430.jpg","mask":"masks/0430.jpg","question":"Can you bring me the wok?"}
+{"id":431,"image":"images/0431.jpg","mask":"masks/0431.jpg","question":"Can you give me the wok?"}
+{"id":432,"image":"images/0432.jpg","mask":"masks/0432.jpg","question":"Can you bring me the wok?"}
+{"id":433,"image":"images/0433.jpg","mask":"masks/0433.jpg","question":"Please pass me the wok."}
+{"id":434,"image":"images/0434.jpg","mask":"masks/0434.jpg","question":"Can you please pass me a wok for cooking?"}
+{"id":435,"image":"images/0435.jpg","mask":"masks/0435.jpg","question":"I need a wok to cook stir-fry."}
+{"id":436,"image":"images/0436.jpg","mask":"masks/0436.jpg","question":"Can you place the wok on the stove?"}
+{"id":437,"image":"images/0437.jpg","mask":"masks/0437.jpg","question":"Can you hand me a wok?"}
+{"id":438,"image":"images/0438.jpg","mask":"masks/0438.jpg","question":"Can you please bring me a wok?"}
+{"id":439,"image":"images/0439.jpg","mask":"masks/0439.jpg","question":"Can you hand me a wok, please?"}
+{"id":440,"image":"images/0440.jpg","mask":"masks/0440.jpg","question":"Can you hand me a wok?"}
+{"id":441,"image":"images/0441.jpg","mask":"masks/0441.jpg","question":"Can you hand me a wok, please?"}
+{"id":442,"image":"images/0442.jpg","mask":"masks/0442.jpg","question":"Can you hand me a wok to cook with?"}
+{"id":443,"image":"images/0443.jpg","mask":"masks/0443.jpg","question":"Can you hand me a wok, please?"}
+{"id":444,"image":"images/0444.jpg","mask":"masks/0444.jpg","question":"Can you hand me a wok for cooking?"}
+{"id":445,"image":"images/0445.jpg","mask":"masks/0445.jpg","question":"Can you bring me a wok, please?"}
+{"id":446,"image":"images/0446.jpg","mask":"masks/0446.jpg","question":"Please bring a cucumber."}
+{"id":447,"image":"images/0447.jpg","mask":"masks/0447.jpg","question":"Pass me the cucumber."}
+{"id":448,"image":"images/0448.jpg","mask":"masks/0448.jpg","question":"I'd like a cucumber."}
+{"id":450,"image":"images/0450.jpg","mask":"masks/0450.jpg","question":"Get a cucumber from the kitchen."}
+{"id":451,"image":"images/0451.jpg","mask":"masks/0451.jpg","question":"Pass me a cucumber, please."}
+{"id":452,"image":"images/0452.jpg","mask":"masks/0452.jpg","question":"Can you please hand me the cucumber on the left?"}
+{"id":453,"image":"images/0453.jpg","mask":"masks/0453.jpg","question":"Can you please hand me the cucumber?"}
+{"id":454,"image":"images/0454.jpg","mask":"masks/0454.jpg","question":"Can you bring me a cucumber, please?"}
+{"id":455,"image":"images/0455.jpg","mask":"masks/0455.jpg","question":"Can you locate a cucumber on the left?"}
+{"id":456,"image":"images/0456.jpg","mask":"masks/0456.jpg","question":"Can you find a cucumber for me?"}
+{"id":457,"image":"images/0457.jpg","mask":"masks/0457.jpg","question":"Pass me the cucumber."}
+{"id":458,"image":"images/0458.jpg","mask":"masks/0458.jpg","question":"Please hand me a cucumber."}
+{"id":459,"image":"images/0459.jpg","mask":"masks/0459.jpg","question":"Please hand me a cucumber."}
+{"id":461,"image":"images/0461.jpg","mask":"masks/0461.jpg","question":"Can you please find a cucumber for me?"}
+{"id":462,"image":"images/0462.jpg","mask":"masks/0462.jpg","question":"Please bring me a cucumber."}
+{"id":463,"image":"images/0463.jpg","mask":"masks/0463.jpg","question":"Can you hand me a cucumber?"}
+{"id":464,"image":"images/0464.jpg","mask":"masks/0464.jpg","question":"Can you find a cucumber for me?"}
+{"id":465,"image":"images/0465.jpg","mask":"masks/0465.jpg","question":"Can you show me a cucumber?"}
+{"id":466,"image":"images/0466.jpg","mask":"masks/0466.jpg","question":"We need to heat up the food. Open the door of the microwave."}
+{"id":467,"image":"images/0467.png","mask":"masks/0467.png","question":"I need to heat something up. Open the door of the microwave."}
+{"id":468,"image":"images/0468.jpg","mask":"masks/0468.jpg","question":"Open the door of the microwave."}
+{"id":469,"image":"images/0469.jpg","mask":"masks/0469.jpg","question":"Open the door of the microwave."}
+{"id":470,"image":"images/0470.png","mask":"masks/0470.png","question":"Could you open the microwave door?"}
+{"id":471,"image":"images/0471.jpg","mask":"masks/0471.jpg","question":"Open the door of the microwave."}
+{"id":472,"image":"images/0472.jpg","mask":"masks/0472.jpg","question":"Could you open the microwave door?"}
+{"id":473,"image":"images/0473.jpg","mask":"masks/0473.jpg","question":"Open the door of the microwave."}
+{"id":474,"image":"images/0474.jpg","mask":"masks/0474.jpg","question":"Could you open the microwave door?"}
+{"id":475,"image":"images/0475.jpg","mask":"masks/0475.jpg","question":"Close the door of the microwave."}
+{"id":476,"image":"images/0476.jpg","mask":"masks/0476.jpg","question":"Can you open the door of the microwave?"}
+{"id":477,"image":"images/0477.jpg","mask":"masks/0477.jpg","question":"Open the door of the microwave."}
+{"id":478,"image":"images/0478.png","mask":"masks/0478.png","question":"Can you please open the door of the microwave?"}
+{"id":479,"image":"images/0479.png","mask":"masks/0479.png","question":"I need to heat my food. Open the door of the microwave."}
+{"id":480,"image":"images/0480.jpg","mask":"masks/0480.jpg","question":"I want to heat up the food. Can you close the microwave door?"}
+{"id":481,"image":"images/0481.jpg","mask":"masks/0481.jpg","question":"Open the door of the microwave."}
+{"id":482,"image":"images/0482.jpg","mask":"masks/0482.jpg","question":"Open the microwave door."}
+{"id":483,"image":"images/0483.jpg","mask":"masks/0483.jpg","question":"Can you open the microwave for me?"}
+{"id":484,"image":"images/0484.jpg","mask":"masks/0484.jpg","question":"Would you mind opening the microwave door?"}
+{"id":485,"image":"images/0485.jpg","mask":"masks/0485.jpg","question":"I'd like to heat up my food. Please open the door of the microwave."}
+{"id":486,"image":"images/0486.jpg","mask":"masks/0486.jpg","question":"Could you open the microwave door?"}
+{"id":487,"image":"images/0487.jpg","mask":"masks/0487.jpg","question":"Open the door of the microwave."}
+{"id":488,"image":"images/0488.jpg","mask":"masks/0488.jpg","question":"Please open the microwave door."}
+{"id":489,"image":"images/0489.jpg","mask":"masks/0489.jpg","question":"I need a way to reheat my food. Can you open the door of the microwave?"}
+{"id":490,"image":"images/0490.jpg","mask":"masks/0490.jpg","question":"Open the door of the microwave."}
+{"id":491,"image":"images/0491.jpg","mask":"masks/0491.jpg","question":"Can you open the microwave for me?"}
+{"id":492,"image":"images/0492.jpg","mask":"masks/0492.jpg","question":"I would like to heat up my food. Please open the door of the microwave."}
+{"id":493,"image":"images/0493.jpg","mask":"masks/0493.jpg","question":"Open the door of the microwave."}
+{"id":494,"image":"images/0494.jpg","mask":"masks/0494.jpg","question":"Can you open the microwave for me?"}
+{"id":495,"image":"images/0495.jpg","mask":"masks/0495.jpg","question":"Open the door of the microwave."}
+{"id":496,"image":"images/0496.jpg","mask":"masks/0496.jpg","question":"Open the microwave door."}
+{"id":497,"image":"images/0497.jpg","mask":"masks/0497.jpg","question":"Open the microwave door."}
+{"id":498,"image":"images/0498.jpg","mask":"masks/0498.jpg","question":"Open the door of the microwave."}
+{"id":499,"image":"images/0499.jpg","mask":"masks/0499.jpg","question":"Open the door of the microwave."}
+{"id":500,"image":"images/0500.jpg","mask":"masks/0500.jpg","question":"Can you open the microwave?"}
+{"id":501,"image":"images/0501.jpg","mask":"masks/0501.jpg","question":"Please heat up the food in the microwave. Can you help me with the microwave door?"}
+{"id":502,"image":"images/0502.jpg","mask":"masks/0502.jpg","question":"I need to heat up my meal. Can you open the microwave?"}
+{"id":503,"image":"images/0503.jpg","mask":"masks/0503.jpg","question":"Would you mind opening the microwave door?"}
+{"id":504,"image":"images/0504.jpg","mask":"masks/0504.jpg","question":"Let's heat up some food. Would you mind opening the microwave door?"}
+{"id":505,"image":"images/0505.jpg","mask":"masks/0505.jpg","question":"How can I open the microwave door?"}
+{"id":506,"image":"images/0506.jpg","mask":"masks/0506.jpg","question":"Can you please open the microwave?"}
+{"id":507,"image":"images/0507.jpg","mask":"masks/0507.jpg","question":"Can you open the microwave?"}
+{"id":508,"image":"images/0508.jpg","mask":"masks/0508.jpg","question":"Can you open the microwave?"}
+{"id":510,"image":"images/0510.jpg","mask":"masks/0510.jpg","question":"I want to heat my food. Can you help me open the microwave?"}
+{"id":511,"image":"images/0511.jpg","mask":"masks/0511.jpg","question":"Can you open the microwave?"}
+{"id":512,"image":"images/0512.jpg","mask":"masks/0512.jpg","question":"I'd like to heat up some leftovers. Can you help me open the microwave?"}
+{"id":513,"image":"images/0513.jpg","mask":"masks/0513.jpg","question":"Could you close the microwave door?"}
+{"id":514,"image":"images/0514.jpg","mask":"masks/0514.jpg","question":"Could you help me open the microwave?"}
+{"id":515,"image":"images/0515.jpg","mask":"masks/0515.jpg","question":"Would you mind opening the microwave door?"}
+{"id":516,"image":"images/0516.jpg","mask":"masks/0516.jpg","question":"Would you mind closing the microwave door?"}
+{"id":517,"image":"images/0517.jpg","mask":"masks/0517.jpg","question":"Open the microwave door."}
+{"id":518,"image":"images/0518.jpg","mask":"masks/0518.jpg","question":"Can you open the microwave door?"}
+{"id":519,"image":"images/0519.jpg","mask":"masks/0519.jpg","question":"Please open the microwave door."}
+{"id":520,"image":"images/0520.jpg","mask":"masks/0520.jpg","question":"Where should I grip the microwave door to open it?"}
+{"id":521,"image":"images/0521.jpg","mask":"masks/0521.jpg","question":"Could you close the microwave door?"}
+{"id":522,"image":"images/0522.jpg","mask":"masks/0522.jpg","question":"Could you open the microwave door?"}
+{"id":523,"image":"images/0523.jpg","mask":"masks/0523.jpg","question":"Could you open the microwave door?"}
+{"id":524,"image":"images/0524.jpg","mask":"masks/0524.jpg","question":"Open the microwave door, please."}
+{"id":525,"image":"images/0525.jpg","mask":"masks/0525.jpg","question":"Open the microwave door."}
+{"id":526,"image":"images/0526.jpg","mask":"masks/0526.jpg","question":"Pull the microwave door open."}
+{"id":527,"image":"images/0527.jpg","mask":"masks/0527.jpg","question":"Could you get the microwave door open?"}
+{"id":528,"image":"images/0528.png","mask":"masks/0528.png","question":"Could I ask you to open the microwave door?"}
+{"id":529,"image":"images/0529.jpg","mask":"masks/0529.jpg","question":"Show me the microwave door handle."}
+{"id":530,"image":"images/0530.jpg","mask":"masks/0530.jpg","question":"Can you open the microwave door?"}
+{"id":531,"image":"images/0531.jpg","mask":"masks/0531.jpg","question":"I have to heat up the food. Please open the door."}
+{"id":532,"image":"images/0532.jpg","mask":"masks/0532.jpg","question":"Please open the door for me."}
+{"id":533,"image":"images/0533.jpg","mask":"masks/0533.jpg","question":"Can you open the door for me?"}
+{"id":534,"image":"images/0534.jpg","mask":"masks/0534.jpg","question":"Open the door."}
+{"id":535,"image":"images/0535.png","mask":"masks/0535.png","question":"Please open the door."}
+{"id":536,"image":"images/0536.jpg","mask":"masks/0536.jpg","question":"I need to get out of the room. Could you open the door for me?"}
+{"id":537,"image":"images/0537.png","mask":"masks/0537.png","question":"Turn the doorknob."}
+{"id":538,"image":"images/0538.jpg","mask":"masks/0538.jpg","question":"Open the door, please."}
+{"id":539,"image":"images/0539.png","mask":"masks/0539.png","question":"Please open the door."}
+{"id":540,"image":"images/0540.png","mask":"masks/0540.png","question":"Can you open the door for me?"}
+{"id":541,"image":"images/0541.png","mask":"masks/0541.png","question":"Push down the door handle."}
+{"id":542,"image":"images/0542.jpg","mask":"masks/0542.jpg","question":"Get the door open, please."}
+{"id":543,"image":"images/0543.jpg","mask":"masks/0543.jpg","question":"Please close the door."}
+{"id":544,"image":"images/0544.jpg","mask":"masks/0544.jpg","question":"Please open the door."}
+{"id":545,"image":"images/0545.jpg","mask":"masks/0545.jpg","question":"How can I open the door?"}
+{"id":546,"image":"images/0546.jpg","mask":"masks/0546.jpg","question":"Open the door, please."}
+{"id":547,"image":"images/0547.jpg","mask":"masks/0547.jpg","question":"Open the door, please."}
+{"id":548,"image":"images/0548.jpg","mask":"masks/0548.jpg","question":"I want to get out. Please open the door for me."}
+{"id":549,"image":"images/0549.jpg","mask":"masks/0549.jpg","question":"Turn the doorknob to open the door."}
+{"id":550,"image":"images/0550.png","mask":"masks/0550.png","question":"Can you please close the door?"}
+{"id":551,"image":"images/0551.jpg","mask":"masks/0551.jpg","question":"Open the door for me."}
+{"id":553,"image":"images/0553.jpg","mask":"masks/0553.jpg","question":"Please close the door."}
+{"id":554,"image":"images/0554.png","mask":"masks/0554.png","question":"Can you open the door?"}
+{"id":555,"image":"images/0555.jpg","mask":"masks/0555.jpg","question":"Can you open the door for me?"}
+{"id":556,"image":"images/0556.png","mask":"masks/0556.png","question":"Close the door, please."}
+{"id":557,"image":"images/0557.jpg","mask":"masks/0557.jpg","question":"Please close the door."}
+{"id":558,"image":"images/0558.png","mask":"masks/0558.png","question":"Please close the door."}
+{"id":559,"image":"images/0559.jpg","mask":"masks/0559.jpg","question":"I need to go through the door. Please open it."}
+{"id":560,"image":"images/0560.jpg","mask":"masks/0560.jpg","question":"Open the door."}
+{"id":561,"image":"images/0561.jpg","mask":"masks/0561.jpg","question":"Please close the door."}
+{"id":562,"image":"images/0562.jpg","mask":"masks/0562.jpg","question":"Can you please open the door for me?"}
+{"id":563,"image":"images/0563.jpg","mask":"masks/0563.jpg","question":"Open the door, please."}
+{"id":564,"image":"images/0564.jpg","mask":"masks/0564.jpg","question":"Please open the door."}
+{"id":565,"image":"images/0565.png","mask":"masks/0565.png","question":"Open the door for me, please."}
+{"id":566,"image":"images/0566.png","mask":"masks/0566.png","question":"Please open the door."}
+{"id":567,"image":"images/0567.png","mask":"masks/0567.png","question":"Please close the door."}
+{"id":568,"image":"images/0568.png","mask":"masks/0568.png","question":"Can you close the door for me?"}
+{"id":569,"image":"images/0569.png","mask":"masks/0569.png","question":"Can someone close the door, please?"}
+{"id":570,"image":"images/0570.jpg","mask":"masks/0570.jpg","question":"Open the door for me."}
+{"id":571,"image":"images/0571.png","mask":"masks/0571.png","question":"Close the door, please."}
+{"id":572,"image":"images/0572.jpg","mask":"masks/0572.jpg","question":"Please close the drawer."}
+{"id":573,"image":"images/0573.jpg","mask":"masks/0573.jpg","question":"Can you help me open the drawer?"}
+{"id":574,"image":"images/0574.jpg","mask":"masks/0574.jpg","question":"Can you open the drawer and retrieve something for me?"}
+{"id":575,"image":"images/0575.jpg","mask":"masks/0575.jpg","question":"Open the drawer to find the keys."}
+{"id":576,"image":"images/0576.jpg","mask":"masks/0576.jpg","question":"Can you open the drawer for me?"}
+{"id":577,"image":"images/0577.jpg","mask":"masks/0577.jpg","question":"Can you please open the drawer?"}
+{"id":578,"image":"images/0578.jpg","mask":"masks/0578.jpg","question":"Open the drawer, please."}
+{"id":579,"image":"images/0579.jpg","mask":"masks/0579.jpg","question":"Can you open the drawer to store the utensils?"}
+{"id":580,"image":"images/0580.jpg","mask":"masks/0580.jpg","question":"Please open the drawer."}
+{"id":581,"image":"images/0581.jpg","mask":"masks/0581.jpg","question":"Please open the drawer."}
+{"id":582,"image":"images/0582.jpg","mask":"masks/0582.jpg","question":"Open the left door of the wardrobe, please."}
+{"id":583,"image":"images/0583.jpg","mask":"masks/0583.jpg","question":"Please locate a book."}
+{"id":584,"image":"images/0584.jpg","mask":"masks/0584.jpg","question":"Please find a book."}
+{"id":585,"image":"images/0585.jpg","mask":"masks/0585.jpg","question":"Please bring me a book."}
+{"id":586,"image":"images/0586.jpg","mask":"masks/0586.jpg","question":"Can you hand me a book, please?"}
+{"id":587,"image":"images/0587.jpg","mask":"masks/0587.jpg","question":"I need a book."}
+{"id":588,"image":"images/0588.jpg","mask":"masks/0588.jpg","question":"Kindly pick up the book."}
+{"id":589,"image":"images/0589.jpg","mask":"masks/0589.jpg","question":"Please get the book on the table."}
+{"id":590,"image":"images/0590.jpg","mask":"masks/0590.jpg","question":"Please hand me a spoon."}
+{"id":591,"image":"images/0591.jpg","mask":"masks/0591.jpg","question":"Bring me a spoon."}
+{"id":592,"image":"images/0592.jpg","mask":"masks/0592.jpg","question":"Can you pass me a spoon, please?"}
+{"id":593,"image":"images/0593.jpg","mask":"masks/0593.jpg","question":"Can you grab me a spoon?"}
+{"id":594,"image":"images/0594.jpg","mask":"masks/0594.jpg","question":"Can you pass me the spoon?"}
+{"id":595,"image":"images/0595.jpg","mask":"masks/0595.jpg","question":"Can you hand me a spoon?"}
+{"id":596,"image":"images/0596.jpg","mask":"masks/0596.jpg","question":"Please hand me a spoon."}
+{"id":597,"image":"images/0597.jpg","mask":"masks/0597.jpg","question":"I need a spoon to stir the soup."}
+{"id":598,"image":"images/0598.jpg","mask":"masks/0598.jpg","question":"Can you hand me a spoon?"}
+{"id":599,"image":"images/0599.jpg","mask":"masks/0599.jpg","question":"Hand me a spoon, please."}
+{"id":600,"image":"images/0600.jpg","mask":"masks/0600.jpg","question":"Please give me a spoon."}
+{"id":601,"image":"images/0601.jpg","mask":"masks/0601.jpg","question":"I need a spoon to stir the soup."}
+{"id":602,"image":"images/0602.jpg","mask":"masks/0602.jpg","question":"I need a spoon."}
+{"id":603,"image":"images/0603.jpg","mask":"masks/0603.jpg","question":"Could you pass me a spoon, please?"}
+{"id":604,"image":"images/0604.jpg","mask":"masks/0604.jpg","question":"I need a spoon."}
+{"id":605,"image":"images/0605.jpg","mask":"masks/0605.jpg","question":"Can you please hand me a spoon?"}
+{"id":606,"image":"images/0606.jpg","mask":"masks/0606.jpg","question":"I require a spoon for stirring."}
+{"id":607,"image":"images/0607.jpg","mask":"masks/0607.jpg","question":"Please pass me a spoon."}
+{"id":608,"image":"images/0608.jpg","mask":"masks/0608.jpg","question":"Pass me a spoon."}
+{"id":609,"image":"images/0609.jpg","mask":"masks/0609.jpg","question":"I need a spoon to stir the soup."}
+{"id":610,"image":"images/0610.jpg","mask":"masks/0610.jpg","question":"I need a spoon to stir the soup."}
+{"id":611,"image":"images/0611.jpg","mask":"masks/0611.jpg","question":"Pass me a spoon, please."}
+{"id":612,"image":"images/0612.jpg","mask":"masks/0612.jpg","question":"Can you hand me a spoon for the soup?"}
+{"id":613,"image":"images/0613.jpg","mask":"masks/0613.jpg","question":"Can you pass me a spoon?"}
+{"id":614,"image":"images/0614.jpg","mask":"masks/0614.jpg","question":"Can you hand me a spoon for the soup?"}
+{"id":615,"image":"images/0615.jpg","mask":"masks/0615.jpg","question":"Pass me a spoon, please."}
+{"id":616,"image":"images/0616.jpg","mask":"masks/0616.jpg","question":"Pass me a spoon."}
+{"id":617,"image":"images/0617.jpg","mask":"masks/0617.jpg","question":"Please hand me a spoon."}
+{"id":618,"image":"images/0618.jpg","mask":"masks/0618.jpg","question":"Can you get me a spoon?"}
+{"id":619,"image":"images/0619.png","mask":"masks/0619.png","question":"Can you bring me a flower pot, please?"}
+{"id":620,"image":"images/0620.png","mask":"masks/0620.png","question":"Can you please fetch the vase?"}
+{"id":621,"image":"images/0621.png","mask":"masks/0621.png","question":"Can you bring me a vase?"}
+{"id":622,"image":"images/0622.png","mask":"masks/0622.png","question":"Can you find a flowerpot for me?"}
+{"id":623,"image":"images/0623.png","mask":"masks/0623.png","question":"Can you bring that flowerpot to the table?"}
+{"id":624,"image":"images/0624.jpg","mask":"masks/0624.jpg","question":"Please bring me a plant pot."}
+{"id":625,"image":"images/0625.png","mask":"masks/0625.png","question":"I would like to display some flowers. Can you find a vase for me, please?"}
+{"id":626,"image":"images/0626.png","mask":"masks/0626.png","question":"We need a plant pot for the flowers."}
+{"id":627,"image":"images/0627.png","mask":"masks/0627.png","question":"Could you bring over a vase?"}
+{"id":628,"image":"images/0628.png","mask":"masks/0628.png","question":"Can you bring me a vase?"}
+{"id":629,"image":"images/0629.png","mask":"masks/0629.png","question":"Can you bring the plant pot over here?"}
+{"id":630,"image":"images/0630.png","mask":"masks/0630.png","question":"Can you bring the plant pot over here?"}
+{"id":631,"image":"images/0631.png","mask":"masks/0631.png","question":"Locate a plant pot for me."}
+{"id":632,"image":"images/0632.png","mask":"masks/0632.png","question":"Can you bring me a vase for the flowers?"}
+{"id":633,"image":"images/0633.png","mask":"masks/0633.png","question":"Can you bring the plant pot?"}
+{"id":634,"image":"images/0634.jpg","mask":"masks/0634.jpg","question":"Can you locate a plant pot?"}
+{"id":635,"image":"images/0635.png","mask":"masks/0635.png","question":"We need a plantpot for the flowers."}
+{"id":636,"image":"images/0636.jpg","mask":"masks/0636.jpg","question":"Can you bring the flowerpot to the table, please?"}
+{"id":637,"image":"images/0637.png","mask":"masks/0637.png","question":"Can you find a plantpot for me?"}
+{"id":638,"image":"images/0638.jpg","mask":"masks/0638.jpg","question":"I need a flowerpot for the flowers."}
+{"id":639,"image":"images/0639.png","mask":"masks/0639.png","question":"I feel cold. Can you hand me a blanket, please?"}
+{"id":640,"image":"images/0640.png","mask":"masks/0640.png","question":"Can you bring me a blanket, please?"}
+{"id":641,"image":"images/0641.png","mask":"masks/0641.png","question":"Can you get the blanket on the bed, please?"}
+{"id":642,"image":"images/0642.png","mask":"masks/0642.png","question":"Can you find a blanket for me?"}
+{"id":643,"image":"images/0643.png","mask":"masks/0643.png","question":"Can you help me find a blanket, please?"}
+{"id":644,"image":"images/0644.png","mask":"masks/0644.png","question":"I need a blanket for the bed."}
+{"id":645,"image":"images/0645.png","mask":"masks/0645.png","question":"Can you please hand me the blanket on the bed?"}
+{"id":646,"image":"images/0646.png","mask":"masks/0646.png","question":"Fetch me a big blanket to keep warm."}
+{"id":647,"image":"images/0647.jpg","mask":"masks/0647.jpg","question":"Can you find an eggplant?"}
+{"id":648,"image":"images/0648.jpg","mask":"masks/0648.jpg","question":"Can you bring me the uncut eggplant？"}
+{"id":649,"image":"images/0649.jpg","mask":"masks/0649.jpg","question":"Please hand me an eggplant."}
+{"id":650,"image":"images/0650.jpg","mask":"masks/0650.jpg","question":"Please hand me the eggplant."}
+{"id":651,"image":"images/0651.jpg","mask":"masks/0651.jpg","question":"Can you show me an eggplant?"}
+{"id":652,"image":"images/0652.jpg","mask":"masks/0652.jpg","question":"Please bring a bottle."}
+{"id":653,"image":"images/0653.jpg","mask":"masks/0653.jpg","question":"Can you hand me a bottle?"}
+{"id":654,"image":"images/0654.jpg","mask":"masks/0654.jpg","question":"Please bring me a bottle."}
+{"id":655,"image":"images/0655.jpg","mask":"masks/0655.jpg","question":"Please find a bottle for me."}
+{"id":656,"image":"images/0656.jpg","mask":"masks/0656.jpg","question":"Can you bring me a bottle?"}
+{"id":657,"image":"images/0657.jpg","mask":"masks/0657.jpg","question":"I need that bottle of oil to cook. Please fetch a bottle."}
+{"id":658,"image":"images/0658.jpg","mask":"masks/0658.jpg","question":"Please bring me a bottle."}
+{"id":659,"image":"images/0659.jpg","mask":"masks/0659.jpg","question":"Can you pass me a bottle, please?"}
+{"id":660,"image":"images/0660.jpg","mask":"masks/0660.jpg","question":"Can you hand me a bottle, please?"}
+{"id":661,"image":"images/0661.jpg","mask":"masks/0661.jpg","question":"Pass me a bottle."}
+{"id":662,"image":"images/0662.jpg","mask":"masks/0662.jpg","question":"Please locate the bottle."}
+{"id":663,"image":"images/0663.jpg","mask":"masks/0663.jpg","question":"Can you hand me the bottle, please?"}
+{"id":664,"image":"images/0664.jpg","mask":"masks/0664.jpg","question":"Can you bring me a bottle?"}
+{"id":665,"image":"images/0665.jpg","mask":"masks/0665.jpg","question":"I need a bottle."}
+{"id":666,"image":"images/0666.jpg","mask":"masks/0666.jpg","question":"I need a bottle."}
+{"id":667,"image":"images/0667.jpg","mask":"masks/0667.jpg","question":"Where is the bottle?"}
+{"id":668,"image":"images/0668.jpg","mask":"masks/0668.jpg","question":"Can you find me a bottle?"}
+{"id":669,"image":"images/0669.jpg","mask":"masks/0669.jpg","question":"I need a bottle. Do you see any bottles around?"}
+{"id":670,"image":"images/0670.jpg","mask":"masks/0670.jpg","question":"Can you bring me a bottle?"}
+{"id":671,"image":"images/0671.jpg","mask":"masks/0671.jpg","question":"Please hand me the bottle."}
+{"id":672,"image":"images/0672.jpg","mask":"masks/0672.jpg","question":"Please hand me the bottle."}
+{"id":673,"image":"images/0673.jpg","mask":"masks/0673.jpg","question":"Can you hand me a bottle, please?"}
+{"id":674,"image":"images/0674.jpg","mask":"masks/0674.jpg","question":"Please find me a bottle."}
+{"id":675,"image":"images/0675.jpg","mask":"masks/0675.jpg","question":"I need a bottle."}
+{"id":676,"image":"images/0676.jpg","mask":"masks/0676.jpg","question":"Where is the bottle?"}
+{"id":677,"image":"images/0677.jpg","mask":"masks/0677.jpg","question":"I can't find the bottle, where is it?"}
+{"id":678,"image":"images/0678.jpg","mask":"masks/0678.jpg","question":"Can you fetch a bottle for me?"}
+{"id":679,"image":"images/0679.jpg","mask":"masks/0679.jpg","question":"Provide me with a bottle, please."}
+{"id":680,"image":"images/0680.jpg","mask":"masks/0680.jpg","question":"Can you hand me a bottle?"}
+{"id":681,"image":"images/0681.jpg","mask":"masks/0681.jpg","question":"Where is the detergent?"}
+{"id":682,"image":"images/0682.jpg","mask":"masks/0682.jpg","question":"Can you find the detergent?"}
+{"id":683,"image":"images/0683.jpg","mask":"masks/0683.jpg","question":"I need detergent for laundry."}
+{"id":684,"image":"images/0684.jpg","mask":"masks/0684.jpg","question":"Please locate the detergent."}
+{"id":685,"image":"images/0685.jpg","mask":"masks/0685.jpg","question":"Can you grab the detergent?"}
+{"id":686,"image":"images/0686.jpg","mask":"masks/0686.jpg","question":"Can you bring me some detergent, please?"}
+{"id":687,"image":"images/0687.jpg","mask":"masks/0687.jpg","question":"Can you find some detergent for laundry?"}
+{"id":688,"image":"images/0688.jpg","mask":"masks/0688.jpg","question":"I need detergent to wash the dishes. Can you find some detergent?"}
+{"id":689,"image":"images/0689.jpg","mask":"masks/0689.jpg","question":"Can you pass me the detergent, please?"}
+{"id":690,"image":"images/0690.jpg","mask":"masks/0690.jpg","question":"Can you get the detergent for me, please?"}
+{"id":691,"image":"images/0691.jpg","mask":"masks/0691.jpg","question":"Please bring me some detergent."}
+{"id":692,"image":"images/0692.jpg","mask":"masks/0692.jpg","question":"Can you grab the detergent for laundry?"}
+{"id":693,"image":"images/0693.jpg","mask":"masks/0693.jpg","question":"Take the bottle in the lower-right corner."}
+{"id":694,"image":"images/0694.jpg","mask":"masks/0694.jpg","question":"Please find the detergent."}
+{"id":695,"image":"images/0695.jpg","mask":"masks/0695.jpg","question":"Please find the detergent."}
+{"id":696,"image":"images/0696.jpg","mask":"masks/0696.jpg","question":"Can you hand me the detergent, please?"}
+{"id":697,"image":"images/0697.jpg","mask":"masks/0697.jpg","question":"Where is the detergent?"}
+{"id":698,"image":"images/0698.jpg","mask":"masks/0698.jpg","question":"Please tell me where the detergent is."}
+{"id":699,"image":"images/0699.jpg","mask":"masks/0699.jpg","question":"Where is the detergent?"}
+{"id":700,"image":"images/0700.jpg","mask":"masks/0700.jpg","question":"Can you find me some detergent, please?"}
+{"id":701,"image":"images/0701.jpg","mask":"masks/0701.jpg","question":"Where is the detergent?"}
+{"id":702,"image":"images/0702.jpg","mask":"masks/0702.jpg","question":"Can you find the detergent for me?"}
+{"id":703,"image":"images/0703.jpg","mask":"masks/0703.jpg","question":"Can you pass me the detergent bottle?"}
+{"id":704,"image":"images/0704.jpg","mask":"masks/0704.jpg","question":"Can you grab a banana for me?"}
+{"id":705,"image":"images/0705.jpg","mask":"masks/0705.jpg","question":"Can you grab a banana for me to eat?"}
+{"id":706,"image":"images/0706.jpg","mask":"masks/0706.jpg","question":"Please hand me the banana."}
+{"id":707,"image":"images/0707.jpg","mask":"masks/0707.jpg","question":"Please bring a banana."}
+{"id":708,"image":"images/0708.jpg","mask":"masks/0708.jpg","question":"Can you fetch a banana?"}
+{"id":710,"image":"images/0710.jpg","mask":"masks/0710.jpg","question":"I need a pair of scissors."}
+{"id":713,"image":"images/0713.jpg","mask":"masks/0713.jpg","question":"Pass me a pair of scissors."}
+{"id":714,"image":"images/0714.jpg","mask":"masks/0714.jpg","question":"Can you bring me a pair of scissors?"}
+{"id":716,"image":"images/0716.jpg","mask":"masks/0716.jpg","question":"Please bring me the scissors to cut."}
+{"id":718,"image":"images/0718.jpg","mask":"masks/0718.jpg","question":"Please hand me the scissors."}
+{"id":719,"image":"images/0719.jpg","mask":"masks/0719.jpg","question":"Can you bring me the scissors?"}
+{"id":721,"image":"images/0721.jpg","mask":"masks/0721.jpg","question":"I need a pair of scissors."}
+{"id":722,"image":"images/0722.jpg","mask":"masks/0722.jpg","question":"I need a pair of scissors."}
+{"id":723,"image":"images/0723.jpg","mask":"masks/0723.jpg","question":"Please hand me the scissors."}
+{"id":724,"image":"images/0724.jpg","mask":"masks/0724.jpg","question":"Can you get the scissors from the table?"}
+{"id":726,"image":"images/0726.jpg","mask":"masks/0726.jpg","question":"Where's the cutting board?"}
+{"id":727,"image":"images/0727.jpg","mask":"masks/0727.jpg","question":"Could you find a cutting board?"}
+{"id":728,"image":"images/0728.jpg","mask":"masks/0728.jpg","question":"I need a board."}
+{"id":729,"image":"images/0729.jpg","mask":"masks/0729.jpg","question":"I need a board for cutting. Please get a board."}
+{"id":730,"image":"images/0730.jpg","mask":"masks/0730.jpg","question":"Can you find a board for me?"}
+{"id":731,"image":"images/0731.jpg","mask":"masks/0731.jpg","question":"Can you bring me a board?"}
+{"id":732,"image":"images/0732.jpg","mask":"masks/0732.jpg","question":"I need a board."}
+{"id":733,"image":"images/0733.jpg","mask":"masks/0733.jpg","question":"Can you locate the cutting board for me?"}
+{"id":734,"image":"images/0734.jpg","mask":"masks/0734.jpg","question":"I can't find the cutting board."}
+{"id":735,"image":"images/0735.jpg","mask":"masks/0735.jpg","question":"I need a cutting board."}
+{"id":736,"image":"images/0736.jpg","mask":"masks/0736.jpg","question":"Where's the cutting board?"}
+{"id":737,"image":"images/0737.jpg","mask":"masks/0737.jpg","question":"Can you fetch a board, please?"}
+{"id":738,"image":"images/0738.jpg","mask":"masks/0738.jpg","question":"Can you show me where the cutting board is?"}
+{"id":739,"image":"images/0739.jpg","mask":"masks/0739.jpg","question":"Bring me a board."}
+{"id":740,"image":"images/0740.jpg","mask":"masks/0740.jpg","question":"Where's the cutting board?"}
+{"id":741,"image":"images/0741.jpg","mask":"masks/0741.jpg","question":"Where's the cutting board?"}
+{"id":742,"image":"images/0742.jpg","mask":"masks/0742.jpg","question":"I need a board."}
+{"id":743,"image":"images/0743.jpg","mask":"masks/0743.jpg","question":"We need a board for cutting. Can you search for it?"}
+{"id":744,"image":"images/0744.jpg","mask":"masks/0744.jpg","question":"I need a board."}
+{"id":745,"image":"images/0745.jpg","mask":"masks/0745.jpg","question":"Can you find a board for me?"}
+{"id":746,"image":"images/0746.jpg","mask":"masks/0746.jpg","question":"Where's the cutting board?"}
+{"id":747,"image":"images/0747.jpg","mask":"masks/0747.jpg","question":"Can you find me a cutting board?"}
+{"id":750,"image":"images/0750.jpg","mask":"masks/0750.jpg","question":"Where's the cutting board?"}
+{"id":751,"image":"images/0751.jpg","mask":"masks/0751.jpg","question":"Can you locate the cutting board for me?"}
+{"id":752,"image":"images/0752.jpg","mask":"masks/0752.jpg","question":"Can you find me a glass?"}
+{"id":753,"image":"images/0753.jpg","mask":"masks/0753.jpg","question":"Where is the glass?"}
+{"id":754,"image":"images/0754.jpg","mask":"masks/0754.jpg","question":"I need a glass for water. Please hand me a glass."}
+{"id":755,"image":"images/0755.jpg","mask":"masks/0755.jpg","question":"Can you hand me a glass, please?"}
+{"id":756,"image":"images/0756.jpg","mask":"masks/0756.jpg","question":"I am thirsty. Could you please bring me a glass?"}
+{"id":757,"image":"images/0757.jpg","mask":"masks/0757.jpg","question":"Can you hand me a glass, please?"}
+{"id":758,"image":"images/0758.jpg","mask":"masks/0758.jpg","question":"Can you bring me a glass?"}
+{"id":759,"image":"images/0759.jpg","mask":"masks/0759.jpg","question":"Can you bring me a glass, please?"}
+{"id":760,"image":"images/0760.jpg","mask":"masks/0760.jpg","question":"Where is the glass?"}
+{"id":761,"image":"images/0761.jpg","mask":"masks/0761.jpg","question":"Please find the glass."}
+{"id":762,"image":"images/0762.jpg","mask":"masks/0762.jpg","question":"Please get me a glass."}
+{"id":763,"image":"images/0763.jpg","mask":"masks/0763.jpg","question":"Please find the glass."}
+{"id":764,"image":"images/0764.jpg","mask":"masks/0764.jpg","question":"I require a glass to pour some water."}
+{"id":765,"image":"images/0765.jpg","mask":"masks/0765.jpg","question":"I need a glass to drink water."}
+{"id":766,"image":"images/0766.jpg","mask":"masks/0766.jpg","question":"Bring me a glass, please."}
+{"id":767,"image":"images/0767.jpg","mask":"masks/0767.jpg","question":"Help me turn off the faucet."}
+{"id":768,"image":"images/0768.jpg","mask":"masks/0768.jpg","question":"Please turn on the tap for me."}
+{"id":769,"image":"images/0769.jpg","mask":"masks/0769.jpg","question":"Help me turn on the faucet."}
+{"id":770,"image":"images/0770.jpg","mask":"masks/0770.jpg","question":"I need to turn on the tap."}
+{"id":771,"image":"images/0771.jpg","mask":"masks/0771.jpg","question":"I need to turn off the tap."}
+{"id":772,"image":"images/0772.jpg","mask":"masks/0772.jpg","question":"Turn off the tap."}
+{"id":773,"image":"images/0773.jpg","mask":"masks/0773.jpg","question":"Turn off the tap, please."}
+{"id":774,"image":"images/0774.jpg","mask":"masks/0774.jpg","question":"I need to turn on the tap."}
+{"id":775,"image":"images/0775.jpg","mask":"masks/0775.jpg","question":"I need to turn off the tap."}
+{"id":776,"image":"images/0776.jpg","mask":"masks/0776.jpg","question":"Turn off the tap, please."}
+{"id":777,"image":"images/0777.jpg","mask":"masks/0777.jpg","question":"Locate the handle to turn off the water."}
+{"id":778,"image":"images/0778.jpg","mask":"masks/0778.jpg","question":"Turn off the tap for me."}
+{"id":779,"image":"images/0779.jpg","mask":"masks/0779.jpg","question":"Please turn off the tap."}
+{"id":780,"image":"images/0780.jpg","mask":"masks/0780.jpg","question":"Can you turn the tap off?"}
+{"id":781,"image":"images/0781.jpg","mask":"masks/0781.jpg","question":"Please turn off the tap."}
+{"id":782,"image":"images/0782.jpg","mask":"masks/0782.jpg","question":"Please turn off the tap."}
+{"id":783,"image":"images/0783.jpg","mask":"masks/0783.jpg","question":"Please turn on the tap."}
+{"id":784,"image":"images/0784.jpg","mask":"masks/0784.jpg","question":"Please turn off the tap."}
+{"id":785,"image":"images/0785.jpg","mask":"masks/0785.jpg","question":"Please turn off the tap."}
+{"id":786,"image":"images/0786.jpg","mask":"masks/0786.jpg","question":"Turn off the tap."}
+{"id":787,"image":"images/0787.jpg","mask":"masks/0787.jpg","question":"Please turn on the tap."}
+{"id":788,"image":"images/0788.jpg","mask":"masks/0788.jpg","question":"Turn off the tap."}
+{"id":789,"image":"images/0789.jpg","mask":"masks/0789.jpg","question":"Please turn on the tap to get some water."}
+{"id":790,"image":"images/0790.jpg","mask":"masks/0790.jpg","question":"Please turn on the tap."}
+{"id":791,"image":"images/0791.jpg","mask":"masks/0791.jpg","question":"Turn off the tap."}
+{"id":792,"image":"images/0792.jpg","mask":"masks/0792.jpg","question":"Please turn on the tap."}
+{"id":793,"image":"images/0793.jpg","mask":"masks/0793.jpg","question":"Could you turn on the tap, please?"}
+{"id":794,"image":"images/0794.jpg","mask":"masks/0794.jpg","question":"Please turn off the tap."}
+{"id":795,"image":"images/0795.jpg","mask":"masks/0795.jpg","question":"The water is running! Turn off the tap!"}
+{"id":796,"image":"images/0796.jpg","mask":"masks/0796.jpg","question":"Please turn on the tap."}
+{"id":797,"image":"images/0797.jpg","mask":"masks/0797.jpg","question":"Turn off the tap, please."}
+{"id":798,"image":"images/0798.jpg","mask":"masks/0798.jpg","question":"Can you turn off the tap, please?"}
+{"id":799,"image":"images/0799.jpg","mask":"masks/0799.jpg","question":"Please turn on the tap."}
+{"id":800,"image":"images/0800.jpg","mask":"masks/0800.jpg","question":"Can you show me the location of the tap handle?"}
+{"id":801,"image":"images/0801.jpg","mask":"masks/0801.jpg","question":"Can you turn on the tap for me?"}
+{"id":802,"image":"images/0802.jpg","mask":"masks/0802.jpg","question":"Turn on the tap to get some water."}
+{"id":803,"image":"images/0803.jpg","mask":"masks/0803.jpg","question":"Can you find the tap handle?"}
+{"id":804,"image":"images/0804.jpg","mask":"masks/0804.jpg","question":"Please turn on the tap."}
+{"id":805,"image":"images/0805.jpg","mask":"masks/0805.jpg","question":"Please turn on the tap."}
+{"id":806,"image":"images/0806.jpg","mask":"masks/0806.jpg","question":"Locate the tap handle for me, please."}
+{"id":807,"image":"images/0807.jpg","mask":"masks/0807.jpg","question":"Could you please bring a bell pepper?"}
+{"id":808,"image":"images/0808.jpg","mask":"masks/0808.jpg","question":"Can you find a bell pepper for me?"}
+{"id":809,"image":"images/0809.jpg","mask":"masks/0809.jpg","question":"I'd like a bell pepper for the salad."}
+{"id":810,"image":"images/0810.jpg","mask":"masks/0810.jpg","question":"Can you hand me the bell pepper, please?"}
+{"id":811,"image":"images/0811.jpg","mask":"masks/0811.jpg","question":"I need a kettle. Can you bring one?"}
+{"id":812,"image":"images/0812.jpg","mask":"masks/0812.jpg","question":"Fetch a kettle."}
+{"id":813,"image":"images/0813.jpg","mask":"masks/0813.jpg","question":"Can you pass me a kettle?"}
+{"id":814,"image":"images/0814.jpg","mask":"masks/0814.jpg","question":"Can you bring me the pitcher?"}
+{"id":815,"image":"images/0815.jpg","mask":"masks/0815.jpg","question":"Can you fetch the filter pitcher for me, please?"}
+{"id":816,"image":"images/0816.jpg","mask":"masks/0816.jpg","question":"Pass me the kettle."}
+{"id":817,"image":"images/0817.jpg","mask":"masks/0817.jpg","question":"Can you bring me a kettle?"}
+{"id":818,"image":"images/0818.jpg","mask":"masks/0818.jpg","question":"I need a water filter pitcher."}
+{"id":819,"image":"images/0819.jpg","mask":"masks/0819.jpg","question":"I need some water. Please bring the water filter pitcher."}
+{"id":820,"image":"images/0820.jpg","mask":"masks/0820.jpg","question":"Get a kettle for me."}
+{"id":821,"image":"images/0821.jpg","mask":"masks/0821.jpg","question":"I need a kettle."}
+{"id":822,"image":"images/0822.jpg","mask":"masks/0822.jpg","question":"Fetch me a kettle."}
+{"id":823,"image":"images/0823.jpg","mask":"masks/0823.jpg","question":"Can you bring me a filter pitcher, please?"}
+{"id":824,"image":"images/0824.jpg","mask":"masks/0824.jpg","question":"Can you bring me a filter pitcher, please?"}
+{"id":825,"image":"images/0825.jpg","mask":"masks/0825.jpg","question":"Please bring me a kettle."}
+{"id":826,"image":"images/0826.jpg","mask":"masks/0826.jpg","question":"Please bring me a kettle."}
+{"id":827,"image":"images/0827.jpg","mask":"masks/0827.jpg","question":"Can you bring me a filter pitcher, please?"}
+{"id":828,"image":"images/0828.jpg","mask":"masks/0828.jpg","question":"Could you bring me a pitcher?"}
+{"id":829,"image":"images/0829.jpg","mask":"masks/0829.jpg","question":"Can you bring me a kettle?"}
+{"id":830,"image":"images/0830.jpg","mask":"masks/0830.jpg","question":"Can you bring me a kettle?"}
+{"id":831,"image":"images/0831.jpg","mask":"masks/0831.jpg","question":"Can you bring me a pitcher?"}
+{"id":832,"image":"images/0832.jpg","mask":"masks/0832.jpg","question":"I need a kettle for pouring water."}
+{"id":833,"image":"images/0833.jpg","mask":"masks/0833.jpg","question":"Give me the kettle."}
+{"id":834,"image":"images/0834.jpg","mask":"masks/0834.jpg","question":"I need a kettle for pouring water."}
+{"id":835,"image":"images/0835.jpg","mask":"masks/0835.jpg","question":"Can you bring me a filter pitcher, please?"}
+{"id":836,"image":"images/0836.jpg","mask":"masks/0836.jpg","question":"Can you bring me the kettle to pour water?"}
+{"id":837,"image":"images/0837.jpg","mask":"masks/0837.jpg","question":"Could you find a lime for me?"}
+{"id":838,"image":"images/0838.jpg","mask":"masks/0838.jpg","question":"Can you pass me the lemon, please?"}
+{"id":839,"image":"images/0839.jpg","mask":"masks/0839.jpg","question":"I need a lemon."}
+{"id":840,"image":"images/0840.jpg","mask":"masks/0840.jpg","question":"Can you find a lemon for me?"}
+{"id":841,"image":"images/0841.jpg","mask":"masks/0841.jpg","question":"Can you grab a lime, please?"}
+{"id":842,"image":"images/0842.jpg","mask":"masks/0842.jpg","question":"I need a lime for cooking. Can you find one?"}
+{"id":843,"image":"images/0843.jpg","mask":"masks/0843.jpg","question":"Can you pass the lemon to me?"}
+{"id":844,"image":"images/0844.jpg","mask":"masks/0844.jpg","question":"Can you bring me a lemon?"}
+{"id":845,"image":"images/0845.jpg","mask":"masks/0845.jpg","question":"Can you find a lemon for me, please?"}
+{"id":846,"image":"images/0846.jpg","mask":"masks/0846.jpg","question":"Please give me a lemon."}
+{"id":847,"image":"images/0847.jpg","mask":"masks/0847.jpg","question":"Let's find a lemon for the recipe."}
+{"id":848,"image":"images/0848.jpg","mask":"masks/0848.jpg","question":"Can you find a lemon for me?"}
+{"id":849,"image":"images/0849.jpg","mask":"masks/0849.jpg","question":"Can you find a lemon for me?"}
+{"id":850,"image":"images/0850.jpg","mask":"masks/0850.jpg","question":"I need a whole lime ."}
+{"id":851,"image":"images/0851.jpg","mask":"masks/0851.jpg","question":"Please hand me the lime."}
+{"id":852,"image":"images/0852.jpg","mask":"masks/0852.jpg","question":"Please pass me a lime on the table."}
+{"id":853,"image":"images/0853.jpg","mask":"masks/0853.jpg","question":"Could you bring me a lime please?"}
+{"id":854,"image":"images/0854.jpg","mask":"masks/0854.jpg","question":"Can you find a lemon for me?"}
+{"id":855,"image":"images/0855.jpg","mask":"masks/0855.jpg","question":"I need gloves for my hands."}
+{"id":856,"image":"images/0856.jpg","mask":"masks/0856.jpg","question":"I need some gloves."}
+{"id":857,"image":"images/0857.jpg","mask":"masks/0857.jpg","question":"Can you pass me the gloves, please?"}
+{"id":858,"image":"images/0858.jpg","mask":"masks/0858.jpg","question":"Can you bring me those gloves?"}
+{"id":859,"image":"images/0859.jpg","mask":"masks/0859.jpg","question":"Can you find a glove for me?"}
+{"id":860,"image":"images/0860.jpg","mask":"masks/0860.jpg","question":"I need a pair of gloves."}
+{"id":861,"image":"images/0861.jpg","mask":"masks/0861.jpg","question":"I need a pair of gloves."}
+{"id":862,"image":"images/0862.jpg","mask":"masks/0862.jpg","question":"Please bring me a pair of gloves."}
+{"id":863,"image":"images/0863.jpg","mask":"masks/0863.jpg","question":"Bring me a glove, please."}
+{"id":864,"image":"images/0864.jpg","mask":"masks/0864.jpg","question":"Can you find a box for me?"}
+{"id":865,"image":"images/0865.jpg","mask":"masks/0865.jpg","question":"Please locate the box."}
+{"id":866,"image":"images/0866.jpg","mask":"masks/0866.jpg","question":"Can you bring me a box?"}
+{"id":867,"image":"images/0867.jpg","mask":"masks/0867.jpg","question":"Please hand me the box."}
+{"id":868,"image":"images/0868.jpg","mask":"masks/0868.jpg","question":"Could you find a box for me, please?"}
+{"id":869,"image":"images/0869.jpg","mask":"masks/0869.jpg","question":"Can you find a box?"}
+{"id":870,"image":"images/0870.jpg","mask":"masks/0870.jpg","question":"Where is the box?"}
+{"id":871,"image":"images/0871.jpg","mask":"masks/0871.jpg","question":"I require a box for storage."}
+{"id":872,"image":"images/0872.jpg","mask":"masks/0872.jpg","question":"We need a box."}
+{"id":873,"image":"images/0873.jpg","mask":"masks/0873.jpg","question":"Can you hand me a box, please?"}
+{"id":874,"image":"images/0874.jpg","mask":"masks/0874.jpg","question":"I need to pack up some items. Can you find a box for me?"}
+{"id":875,"image":"images/0875.jpg","mask":"masks/0875.jpg","question":"Can you locate a box for me?"}
+{"id":876,"image":"images/0876.jpg","mask":"masks/0876.jpg","question":"Can you tell me where the box is?"}
+{"id":877,"image":"images/0877.jpg","mask":"masks/0877.jpg","question":"Locate the box for me."}
+{"id":878,"image":"images/0878.jpg","mask":"masks/0878.jpg","question":"Pass me the box."}
+{"id":879,"image":"images/0879.jpg","mask":"masks/0879.jpg","question":"Locate a box for me."}
+{"id":880,"image":"images/0880.jpg","mask":"masks/0880.jpg","question":"Can you grab a box for me?"}
+{"id":881,"image":"images/0881.jpg","mask":"masks/0881.jpg","question":"Locate the box for me."}
+{"id":882,"image":"images/0882.jpg","mask":"masks/0882.jpg","question":"Locate the box for me."}
+{"id":883,"image":"images/0883.jpg","mask":"masks/0883.jpg","question":"I need a box."}
+{"id":884,"image":"images/0884.jpg","mask":"masks/0884.jpg","question":"Can you find a box for me?"}
+{"id":885,"image":"images/0885.jpg","mask":"masks/0885.jpg","question":"Can you open the right door of the refrigerator?"}
+{"id":886,"image":"images/0886.jpg","mask":"masks/0886.jpg","question":"Can you open the right door of the refrigerator for me?"}
+{"id":887,"image":"images/0887.jpg","mask":"masks/0887.jpg","question":"Could you please open the right door of the refrigerator for me?"}
+{"id":888,"image":"images/0888.jpg","mask":"masks/0888.jpg","question":"Can you please open the right door of the refrigerator?"}
+{"id":889,"image":"images/0889.jpg","mask":"masks/0889.jpg","question":"Can you open the right door of the refrigerator?"}
+{"id":890,"image":"images/0890.jpg","mask":"masks/0890.jpg","question":"Open the right door of the refrigerator."}
+{"id":891,"image":"images/0891.jpg","mask":"masks/0891.jpg","question":"Open the right door of the refrigerator."}
+{"id":892,"image":"images/0892.jpg","mask":"masks/0892.jpg","question":"Close the right door of the refrigerator."}
+{"id":893,"image":"images/0893.png","mask":"masks/0893.png","question":"Open the right door of the refrigerator."}
+{"id":894,"image":"images/0894.jpg","mask":"masks/0894.jpg","question":"Open the right door of the refrigerator."}
+{"id":895,"image":"images/0895.jpg","mask":"masks/0895.jpg","question":"Locate the right door handle of the refrigerator."}
+{"id":896,"image":"images/0896.jpg","mask":"masks/0896.jpg","question":"Close the right door of the refrigerator."}
+{"id":897,"image":"images/0897.jpg","mask":"masks/0897.jpg","question":"Please open the right door of the refrigerator."}
+{"id":898,"image":"images/0898.jpg","mask":"masks/0898.jpg","question":"Can you open the top drawer for me?"}
+{"id":899,"image":"images/0899.jpg","mask":"masks/0899.jpg","question":"Can you open the top drawer for me?"}
+{"id":900,"image":"images/0900.jpg","mask":"masks/0900.jpg","question":"How do I open the top drawer?"}
+{"id":901,"image":"images/0901.jpg","mask":"masks/0901.jpg","question":"Can you open the top drawer for me?"}
+{"id":902,"image":"images/0902.jpg","mask":"masks/0902.jpg","question":"Can you find something in the top drawer?"}
+{"id":903,"image":"images/0903.jpg","mask":"masks/0903.jpg","question":"Can you open the top drawer?"}
+{"id":904,"image":"images/0904.jpg","mask":"masks/0904.jpg","question":"Can you check the top drawer for me?"}
+{"id":905,"image":"images/0905.jpg","mask":"masks/0905.jpg","question":"Open the left door of the refrigerator."}
+{"id":906,"image":"images/0906.jpg","mask":"masks/0906.jpg","question":"Please open the left door of the refrigerator to get the ingredients."}
+{"id":907,"image":"images/0907.jpg","mask":"masks/0907.jpg","question":"Open the left door of the refrigerator."}
+{"id":908,"image":"images/0908.jpg","mask":"masks/0908.jpg","question":"Open the left door of the refrigerator."}
+{"id":909,"image":"images/0909.jpg","mask":"masks/0909.jpg","question":"Open the left door of the refrigerator, please."}
+{"id":911,"image":"images/0911.png","mask":"masks/0911.png","question":"Can you open the left door of the refrigerator?"}
+{"id":912,"image":"images/0912.jpg","mask":"masks/0912.jpg","question":"Can you open the left door of the refrigerator?"}
+{"id":913,"image":"images/0913.jpg","mask":"masks/0913.jpg","question":"Can you open the left door of the refrigerator?"}
+{"id":914,"image":"images/0914.jpg","mask":"masks/0914.jpg","question":"Please open the left door of the refrigerator."}
+{"id":915,"image":"images/0915.jpg","mask":"masks/0915.jpg","question":"Can you open the left door of the refrigerator?"}
+{"id":916,"image":"images/0916.jpg","mask":"masks/0916.jpg","question":"Could you open the left door of the refrigerator?"}
+{"id":917,"image":"images/0917.jpg","mask":"masks/0917.jpg","question":"Please open the left door of the refrigerator."}
+{"id":918,"image":"images/0918.jpg","mask":"masks/0918.jpg","question":"Open the left door of the refrigerator."}
+{"id":919,"image":"images/0919.jpg","mask":"masks/0919.jpg","question":"Can you open the left door of the refrigerator, please?"}
+{"id":920,"image":"images/0920.jpg","mask":"masks/0920.jpg","question":"Open the left door of the refrigerator."}
+{"id":921,"image":"images/0921.jpg","mask":"masks/0921.jpg","question":"Open the left door of the refrigerator, please."}
+{"id":922,"image":"images/0922.png","mask":"masks/0922.png","question":"Open the top door of the refrigerator."}
+{"id":923,"image":"images/0923.png","mask":"masks/0923.png","question":"Could you open the top door of the refrigerator?"}
+{"id":924,"image":"images/0924.jpg","mask":"masks/0924.jpg","question":"Could you open the top door of the refrigerator, please?"}
+{"id":925,"image":"images/0925.jpg","mask":"masks/0925.jpg","question":"Could you open the top door of the refrigerator?"}
+{"id":926,"image":"images/0926.png","mask":"masks/0926.png","question":"Can you open the top door of the refrigerator?"}
+{"id":927,"image":"images/0927.jpg","mask":"masks/0927.jpg","question":"Open the top door of the refrigerator."}
+{"id":928,"image":"images/0928.jpg","mask":"masks/0928.jpg","question":"Could you hand me the phone, please?"}
+{"id":929,"image":"images/0929.jpg","mask":"masks/0929.jpg","question":"Please hand me the phone."}
+{"id":930,"image":"images/0930.jpg","mask":"masks/0930.jpg","question":"Can you bring me the phone, please?"}
+{"id":931,"image":"images/0931.jpg","mask":"masks/0931.jpg","question":"Can you please fetch the phone for me?"}
+{"id":932,"image":"images/0932.jpg","mask":"masks/0932.jpg","question":"Can you bring me the phone, please?"}
+{"id":933,"image":"images/0933.jpg","mask":"masks/0933.jpg","question":"Please hand me the phone."}
+{"id":934,"image":"images/0934.jpg","mask":"masks/0934.jpg","question":"Locate the phone for me."}
+{"id":935,"image":"images/0935.jpg","mask":"masks/0935.jpg","question":"Can you pass me the phone?"}
+{"id":936,"image":"images/0936.jpg","mask":"masks/0936.jpg","question":"Can you locate a phone for me?"}
+{"id":937,"image":"images/0937.jpg","mask":"masks/0937.jpg","question":"Please bring me the phone."}
+{"id":938,"image":"images/0938.jpg","mask":"masks/0938.jpg","question":"Can you hand me the phone, please?"}
+{"id":939,"image":"images/0939.jpg","mask":"masks/0939.jpg","question":"Can you please bring me a phone?"}
+{"id":940,"image":"images/0940.jpg","mask":"masks/0940.jpg","question":"Can you help me find the phone?"}
+{"id":941,"image":"images/0941.jpg","mask":"masks/0941.jpg","question":"Can you find a phone for me?"}
+{"id":942,"image":"images/0942.jpg","mask":"masks/0942.jpg","question":"Can you search for a phone for me, please?"}
+{"id":943,"image":"images/0943.jpg","mask":"masks/0943.jpg","question":"Please hand me the phone."}
+{"id":944,"image":"images/0944.jpg","mask":"masks/0944.jpg","question":"Fetch me a phone."}
+{"id":945,"image":"images/0945.jpg","mask":"masks/0945.jpg","question":"Can you hand me the phone?"}
+{"id":946,"image":"images/0946.jpg","mask":"masks/0946.jpg","question":"Please hand me the phone."}
+{"id":947,"image":"images/0947.jpg","mask":"masks/0947.jpg","question":"Can you find a phone for me?"}
+{"id":948,"image":"images/0948.jpg","mask":"masks/0948.jpg","question":"Can you get the phone for me?"}
+{"id":949,"image":"images/0949.jpg","mask":"masks/0949.jpg","question":"I need to make a call. Can you bring me the phone?"}
+{"id":950,"image":"images/0950.jpg","mask":"masks/0950.jpg","question":"Please bring me the phone."}
+{"id":951,"image":"images/0951.jpg","mask":"masks/0951.jpg","question":"I need to make a call. Please find a phone for me."}
+{"id":952,"image":"images/0952.jpg","mask":"masks/0952.jpg","question":"I need a phone to make a call."}
+{"id":953,"image":"images/0953.jpg","mask":"masks/0953.jpg","question":"I need my phone. Can you locate it?"}
+{"id":954,"image":"images/0954.jpg","mask":"masks/0954.jpg","question":"Can you help me find a carrot?"}
+{"id":955,"image":"images/0955.jpg","mask":"masks/0955.jpg","question":"I would like a carrot for my snack."}
+{"id":956,"image":"images/0956.jpg","mask":"masks/0956.jpg","question":"Please bring a carrot."}
+{"id":957,"image":"images/0957.jpg","mask":"masks/0957.jpg","question":"Can you find a carrot for me, please?"}
+{"id":958,"image":"images/0958.jpg","mask":"masks/0958.jpg","question":"I need a carrot for the salad."}
+{"id":959,"image":"images/0959.jpg","mask":"masks/0959.jpg","question":"Can you bring a carrot, please?"}
+{"id":960,"image":"images/0960.jpg","mask":"masks/0960.jpg","question":"Can you find a carrot?"}
+{"id":961,"image":"images/0961.jpg","mask":"masks/0961.jpg","question":"Open the door of the washing machine."}
+{"id":962,"image":"images/0962.jpg","mask":"masks/0962.jpg","question":"Open the door of the washing machine, please."}
+{"id":963,"image":"images/0963.jpg","mask":"masks/0963.jpg","question":"Open the door of the washing machine."}
+{"id":964,"image":"images/0964.jpg","mask":"masks/0964.jpg","question":"Open the door of the washing machine, please."}
+{"id":965,"image":"images/0965.jpg","mask":"masks/0965.jpg","question":"How can I open the washing machine?"}
+{"id":966,"image":"images/0966.jpg","mask":"masks/0966.jpg","question":"Open the door of the washing machine, please."}
+{"id":967,"image":"images/0967.jpg","mask":"masks/0967.jpg","question":"I need to wash my clothes. Can you open the door of the washing machine?"}
+{"id":968,"image":"images/0968.jpg","mask":"masks/0968.jpg","question":"I need a toothbrush."}
+{"id":969,"image":"images/0969.jpg","mask":"masks/0969.jpg","question":"Can you grab me a toothbrush, please?"}
+{"id":970,"image":"images/0970.jpg","mask":"masks/0970.jpg","question":"Can you bring me a toothbrush?"}
+{"id":971,"image":"images/0971.jpg","mask":"masks/0971.jpg","question":"Pass me the toothbrush, please."}
+{"id":972,"image":"images/0972.jpg","mask":"masks/0972.jpg","question":"I need a toothbrush for cleaning."}
+{"id":973,"image":"images/0973.jpg","mask":"masks/0973.jpg","question":"Can you grab a toothbrush for me?"}
+{"id":974,"image":"images/0974.jpg","mask":"masks/0974.jpg","question":"Can you hand me a toothbrush?"}
+{"id":975,"image":"images/0975.jpg","mask":"masks/0975.jpg","question":"Please hand me a toothbrush."}
+{"id":976,"image":"images/0976.jpg","mask":"masks/0976.jpg","question":"Bring me a toothbrush."}
+{"id":977,"image":"images/0977.jpg","mask":"masks/0977.jpg","question":"Can you hand me the toothbrush?"}
+{"id":978,"image":"images/0978.jpg","mask":"masks/0978.jpg","question":"Can you find a towel for me?"}
+{"id":979,"image":"images/0979.jpg","mask":"masks/0979.jpg","question":"Please bring me a towel."}
+{"id":980,"image":"images/0980.jpg","mask":"masks/0980.jpg","question":"I need a towel."}
+{"id":981,"image":"images/0981.jpg","mask":"masks/0981.jpg","question":"Could you pass me the towel, please?"}
+{"id":982,"image":"images/0982.jpg","mask":"masks/0982.jpg","question":"Can you hand me a towel, please?"}
+{"id":983,"image":"images/0983.jpg","mask":"masks/0983.jpg","question":"Could you get me a towel?"}
+{"id":984,"image":"images/0984.jpg","mask":"masks/0984.jpg","question":"Can you hand me a towel, please?"}
+{"id":985,"image":"images/0985.jpg","mask":"masks/0985.jpg","question":"Could you hand me a towel, please?"}
+{"id":986,"image":"images/0986.jpg","mask":"masks/0986.jpg","question":"Can you hand me a towel?"}
+{"id":987,"image":"images/0987.jpg","mask":"masks/0987.jpg","question":"Could you please hand me a towel?"}
+{"id":988,"image":"images/0988.jpg","mask":"masks/0988.jpg","question":"Can you please hand me the towel?"}
+{"id":989,"image":"images/0989.jpg","mask":"masks/0989.jpg","question":"Can you hand me a towel, please?"}
+{"id":990,"image":"images/0990.jpg","mask":"masks/0990.jpg","question":"Bring me a towel."}
+{"id":991,"image":"images/0991.jpg","mask":"masks/0991.jpg","question":"I need a towel to clean up the spill."}
+{"id":992,"image":"images/0992.jpg","mask":"masks/0992.jpg","question":"Can you bring me a towel, please?"}
+{"id":993,"image":"images/0993.jpg","mask":"masks/0993.jpg","question":"Hand me the power drill."}
+{"id":994,"image":"images/0994.jpg","mask":"masks/0994.jpg","question":"Can you give me the power drill?"}
+{"id":995,"image":"images/0995.jpg","mask":"masks/0995.jpg","question":"I require a power drill."}
+{"id":996,"image":"images/0996.jpg","mask":"masks/0996.jpg","question":"Can you bring me a power drill?"}
+{"id":997,"image":"images/0997.jpg","mask":"masks/0997.jpg","question":"Give me the power drill, please."}
+{"id":998,"image":"images/0998.jpg","mask":"masks/0998.jpg","question":"Can you hand me the power drill?"}
+{"id":999,"image":"images/0999.jpg","mask":"masks/0999.jpg","question":"Where is the alarm clock?"}
+{"id":1000,"image":"images/1000.jpg","mask":"masks/1000.jpg","question":"Please get the kitchen timer for me."}
+{"id":1001,"image":"images/1001.png","mask":"masks/1001.png","question":"I need to know the time. Please locate the clock."}
+{"id":1002,"image":"images/1002.jpg","mask":"masks/1002.jpg","question":"Can you get the kitchen timer for me, please?"}
+{"id":1003,"image":"images/1003.jpg","mask":"masks/1003.jpg","question":"Can you get the kitchen timer for me?"}
+{"id":1004,"image":"images/1004.jpg","mask":"masks/1004.jpg","question":"Can you please locate the alarm clock?"}
+{"id":1005,"image":"images/1005.jpg","mask":"masks/1005.jpg","question":"Please hand over the remote control."}
+{"id":1006,"image":"images/1006.png","mask":"masks/1006.png","question":"Can you open the bottom door of the refrigerator for me?"}
+{"id":1007,"image":"images/1007.jpg","mask":"masks/1007.jpg","question":"Open the bottom door of the refrigerator."}
+{"id":1008,"image":"images/1008.jpg","mask":"masks/1008.jpg","question":"Close the bottom door of the refrigerator."}
+{"id":1009,"image":"images/1009.jpg","mask":"masks/1009.jpg","question":"Can you close the bottom door of the refrigerator?"}
+{"id":1010,"image":"images/1010.jpg","mask":"masks/1010.jpg","question":"Please open the bottom door of the refrigerator."}
+{"id":1011,"image":"images/1011.png","mask":"masks/1011.png","question":"I need a teddy bear for the child. Can you find it?"}
+{"id":1012,"image":"images/1012.jpg","mask":"masks/1012.jpg","question":"Can you bring me a game pad, please?"}
