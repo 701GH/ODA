@@ -1,32 +1,28 @@
-# LICENSE
+# License
 
-本仓库包含两类内容，分别适用不同的许可条款。
+This repository contains two kinds of content, under different terms.
 
-## 1. 图像与真值掩码（`images/`、`masks/`）
+## 1. Images and ground-truth masks (`images/`, `masks/`)
 
-**不是**本仓库作者的原创内容。它们出自 3DOI（Qian & Fouhey, ICCV 2023），
-其中的图像在 3DOI 中采集自 EpicKitchens 与 Omnidata。
+**Not** original to this repository. They come from 3DOI (*Understanding 3D Object Interaction from a Single Image*, Qian & Fouhey, ICCV 2023), which collected its images from EpicKitchens and Omnidata.
 
-EpicKitchens 的数据集与基准以 **Creative Commons Attribution-NonCommercial 4.0
-International License (CC BY-NC 4.0)** 发布：
+The EpicKitchens dataset and benchmark are released under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**:
 
   https://creativecommons.org/licenses/by-nc/4.0/
 
-据此，使用这些图像与掩码须满足：
+Using these images and masks therefore requires:
 
-- **署名**：注明来源为 EpicKitchens / Omnidata，并经由 3DOI 获得；
-- **附许可链接**：提供上述 CC BY-NC 4.0 的链接；
-- **说明改动**：本仓库未改动图像与掩码（见 `NOTICE`）；
-- **非商业**：不得用于商业目的。
+- **Attribution** — credit EpicKitchens / Omnidata as the source, obtained via 3DOI;
+- **License link** — include the CC BY-NC 4.0 link above;
+- **Indication of changes** — this repository does not modify the images or masks (see `NOTICE`);
+- **Non-commercial** — no commercial use.
 
-Omnidata 的部分适用其自身的原始许可，请一并遵守。
+The Omnidata portion is additionally subject to its own original license.
 
-## 2. 审阅与修订（`tasks.jsonl`、`review_log.jsonl`、本说明文件）
+## 2. Audit and revision (`tasks.jsonl`, `review_log.jsonl`, `README.md`, `LICENSE`, `NOTICE`)
 
-本仓库作者对本数据集的**指令审阅与修订工作**（包括改写后的指令文本、
-保留/改写/剔除的判定及其记录）以 **CC BY-NC 4.0** 发布，条款同上。
+The instruction audit and revision work in this repository — the rewritten instruction text, the keep / edit / reject verdicts and their record — is released under **CC BY-NC 4.0**, on the terms above.
 
-## 免责说明
+## Disclaimer
 
-本仓库按“原样”提供，不对适用性或特定用途的适用性作出任何担保。
-使用者在将其用于任何目的前，应自行确认符合上述各项许可的要求。
+This repository is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability or fitness for a particular purpose. Users are responsible for confirming that their use complies with the licenses above.
